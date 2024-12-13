@@ -1,8 +1,15 @@
 # Riots in the Forest of Dean
 
-For many years, the *current ways* were the same as the *old ways* —
+For many years, the *current ways* were the same as the *old ways* or the *traditional ways*.
 
+TO DO history of forest from English Commons book?
 
+https://archive.org/details/englishcommonsa00evergoog/page/n277/mode/2up
+English Commons and Forests: The Story of the Battle During the Last Thirty Years for Public ...
+by George John Shaw -Lefevre Eversley
+
+Publication date 1894
+p247-
 
 ```{admonition} Working a mine in the Forest, November 1822
 :class: dropdown
@@ -24,11 +31,16 @@ Mr. HART said he was informed by his clients that the most unfortunate results w
 The VICE-CHANCELLOR said, that under these circumstances, and because the rule laid down by the Lord Chancellor was not generally known, he would grant the injunction in the present instance.
 ```
 
-```{admonition} Not knowing the custom of the forest, November 1822
+Another report provides a bit more detail on the practicalaties associated with identifying the extent of the land assigned to a miner.
+
+```{admonition} The King's Gavellers mark out a circle of land, November 1822
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18221116/024/0003
 Morning Herald (London) - Saturday 16 November 1822
-COUNT `sic` AND CO. V. MOUNTJOV AND OTHERS.
+
+VICE CHANCELLOR'S COURT, FRIDAY
+
+COUNT `sic` AND CO. V. MOUNTJOY AND OTHERS.
 
 This was a motion by Mr. BELL, on the part of the defendants to dissolve an injunction granted by his Honour in June last, by which the said defendants were restrained from working a coal mine. Mr. Wetherell was with Mr. Bell. The arguments in favour of the motion were, that the title of the plaintiffs being precisely that of the defendants, it was for them to show cause why the latter should not have the same liberty. The facts of the case were these:—Both parties had rented grounds in the Forest of Dean, in Gloucestershire, for the purpose of establishing and working colleries. The manner in which land is let in that forest is this. The King's *Gavellers* measure out to each tenant a space of ground of a circular form, 24 feet in diameter, called a *gale*, in which they may sink a shaft and work the coal-mines below, according to the custom of the forest.
 
@@ -36,6 +48,7 @@ Mr. HART and Mr. PHILMORE on behalf of the plaintiffs, urged the continuance of 
 
 His HONOUR said not knowing the custom of the forest, he should only dissolve so much of the injunction as restrained generally. A Jury should be summoned to determine the custom of the forest, and surveyors appointed to *dial* according to their verdict. The Jurors should be miners well acquainted with the customs of the place. He would be thus prepared to consider defendant's motion on the last day of Term.
 ```
+
 
 
 TO DO
@@ -246,7 +259,7 @@ TUMULTUOUS ASSEMBLAGES IN THE FOREST OF DEAN, AND DESTRUCTION OF THE GOVERNMENT 
 
 [FROM THE MONMOUTHSHIRE MERLIN.]
 
-It has seldom, perhaps never, fallen to the lot of any provincial journalist to have to record, at the same time, two instances of alarming riot ill his own immediate neighboourhood. Such, however, is now our painful duty. Three or four months ago we inserted a letter, unIder the signature of "Acornpatch," in which, after explaining the condition of the people in the Forest of Dean, the writer emphatically says—'We are poor, poor, very poor; but We ale quiet, quiet, very quiet.' The character thus given of the foresters was at that period most strictly true. Although suffering the greatest distress and privations—although contiiually excited to acts of tumult and disorder by Swingites and Cobbetites without number, they remained firm in their allegiance to the King and to the laws, and never for a moment fell away from that feeling of patriotism, whose still smnall voice is ever whispering in the ears of an honest man, that it is better to endure every kind of misery and hardship in unstained loyalty, than to light the torch of discord, and be the cause of blioodsbed and desolation in the land of his birth. We feel persuaded that the foresters have always hitherto acted upon this principle, and that but for a delusion, into which they have been led by the artifices of designing men, we should not now have to relate occurrences, which seem for the first time to throw a shade upon their peaceableness and patriotism.
+It has seldom, perhaps never, fallen to the lot of any provincial journalist to have to record, at the same time, two instances of alarming riot ill his own immediate neighboourhood. Such, however, is now our painful duty. Three or four months ago we inserted a letter, unIder the signature of "Acornpatch," in which, after explaining the condition of the people in the Forest of Dean, the writer emphatically says—'We are poor, poor, very poor; but We ale quiet, quiet, very quiet.' The character thus given of the foresters was at that period most strictly true. Although suffering the greatest distress and privations—although continually excited to acts of tumult and disorder by Swingites and Cobbetites without number, they remained firm in their allegiance to the King and to the laws, and never for a moment fell away from that feeling of patriotism, whose still smnall voice is ever whispering in the ears of an honest man, that it is better to endure every kind of misery and hardship in unstained loyalty, than to light the torch of discord, and be the cause of blioodsbed and desolation in the land of his birth. We feel persuaded that the foresters have always hitherto acted upon this principle, and that but for a delusion, into which they have been led by the artifices of designing men, we should not now have to relate occurrences, which seem for the first time to throw a shade upon their peaceableness and patriotism.
 
 We shall commence by taking a review of the claim out of which their late tumultuous proceedings have originated. It appears that from time immemorial certain inhabitants of the Forest have exercised a right of common, of pasture, and of pannage through certain districts. By an Act of the 20th. of Charles II., c. 3, after reciting that the wood and timber (of the Crown, which of late years was of very great quantity and value within the Fo- rest of Dean, was become totally destroyed (except as therein is mentioned), whereby there was an apparent scarcity of timber there, as in all ather parts of the kingdom, so that some course was necessary to be speedily taken to restore and preserve the growth of timber for the future support of his Majesty's navy and the maintenance of shipping for the trade of the nation—it was enacted that 11,000 acres, statute measure, at 16 1/2 feet to the perch, of the said Forest, should he enclosed, and remain so enclosed until the Lord Treasurer, the Commissioners of the Treasury, or the Chancellor of the Exchequer shiould be satisfied that the trees growing on the said 11,000 acres were become past danger of the browsing of deer, cattle, or other prejudice, and shoulld think fit to lay open the same, or any part thereof, consisting of five hundred acres or more; and that in such case it should be lawful for his Majesty, in lieu of so much of the said eleven thousand acres as should be laid open, to inclose the like quantity out of any other part of the forest wastes. A clause in the same Act makes void any estate or interest in the forest lands which might be thereafter obtained by any person from the Crown. Another clause gives to the owners and occupiers of forest lands as a compensation in lieu of the right of common and of herbage, taken from them by the before mentioned enclosures, the privilege of cutting down and selling for their own use any timber growing upon their several lands; and also the privilege of improving, enclosing, fencing, and building on the said lands—of keeping dogs—and of hunting and killing beasts of chase and other game. The 11th section saves the liberties and privileges of all persons in and through the said forest at such times as the same should not be enclosed, and provides how the right of pannage and of common pasture should thereafter be enjoyed. An Act of the 48th Gen. III., c. 72, confirms the before-mentioned statute of Charles II. in all its essential particulars, and directs how persons, wilfully destroying any of the fences or enclosures, shall be punished. The third offence is made felony, and subjected to seven years' transportation, fine, or imprisonmnent, at the discretion of the Judge before whom the offenders may be tried.
 
@@ -284,6 +297,8 @@ APPREHENSION OF PENDERRIN.—A letter from Merthyr, dated Wednesday night, says�
 
 ```
 
+```{admonition} A popular display of feeling at Parkend, June 1831
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18310617/053/0004
 Nottingham Review - Friday 17 June 1831
 
@@ -294,7 +309,7 @@ On Thursday, this work of devastation was renewed and, it is said, before the cl
 Monmouth, Sunday Morning. —The small force collected in this town on Friday morning, returned last night from Colford, without having made any attempt to stop the *levellers* in their work of destruction, which was pursued with renewed avidity the whole of Friday and Saturday, and the entire of the enclosures are now open; for where the walling or embankment is not completely down, gaps or breaches of about 100 yards are made at intervals of the same length; on Friday there was the greatest display of strength, and at least three thousand men were engaged in gangs, varying in number from fifty to three hundred, throughout every portion of the forest. It would almost exceed belief, that in the open day such a number should assemble, their persons and residences in numberless instances known to the magistrates, gentry, and keepers, and that no force has been assembled to resist outrage so flagrant; nearly fifty miles of substantial mounds and walling have been levelled in the short space of four days, and upwards of ten thousand acres of fine young timber, of about twenty years' growth, laid open. There is some movement in this business which demands prompt and strict investigation. The writer of this conversed with two men who were pressed on Thursday, and compelled to assist in throwing down the banks, and it is evident from their report, that the great majority of the foresters believe that Warren James, their openly avowed leader, whose name is affixed to the hand-bill calling the meeting to lay open the inclosures, and who is the O'Connell of the forest, is but the agent of some one or more noblemen in town, who are determined "see the foresters righted." It would not be prudent or just to use the names of the parties mentioned, for perhaps it is a license taken by the leaders of the rioters without authority. A sister of James's, it is said, lives with a nobleman, who the foresters expect will be *in the forests* shortly again, and James has been twice town to have interviews on this business; one fact is evident, that the poor men are acting under the impression that they are committing no illegal act, and that no resistance will be offered them, and the events of the past week prove their view in the latter instance to be correct. There is another singular feature in this business worthy attention: the different parties were accompanied by carts containing provisions, and hogsheads of cyder were distributed to the men in the progress of the work. The only instance of outrage beyond the primary object of the foresters, is the pulling down the garden walls of Mr. Goold, accompanied with a promise of serving his house in the same manner, and occasional threats of personal violence to any persons whom they judge are put as spies to their conduct. Whether these disturbances are to end here, time only will develope; some of the more violent are for proceeding to other acts of violence; the railways which intersect the forest in every direction, and the turnpike-gates are rumoured to be the next objects of attack, but the leaders appear to consider that the work for which they assembled was finished last night. The only shadow of a question of right appears to be, that the act provides that only eleven thousand acres, together with a small quantity of about 500 or 600 acres previously enclosed, shall be kept as a nursery for timber; now the foresters declare that considerably more have been enclosed. Their assertion that the timber is of sufficient stature not to require protection is untrue; the most experienced woodwards, totally unconnected with the Crown lands, agree that the embankments should be kept up from seven to ten years yet to come. Be this as it may, the *uninterrupted* progress of the foresters during the last week cannot but have an injurious effect on the had spirits on the Monmouthshire and Welsh hills, and the events of the coming week are looked forward to with considerable anxiety.
 
 Since writing the above, the militia staff, &c., have just received orders to be in readiness to-morrow morning, at five o'clock —their number will be increased by several volunteers.
-
+```
 
 ```{admonition} The military arrive and the ringleaders apprehended, June 1831
 :class: dropdown
@@ -447,12 +462,6 @@ https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%
 https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Warren_James_Pardon_transcript.pdf
 
 
-https://archive.org/details/englishcommonsa00evergoog/page/n277/mode/2up
-English Commons and Forests: The Story of the Battle During the Last Thirty Years for Public ...
-by George John Shaw -Lefevre Eversley
-
-Publication date 1894
-
 
 
 https://parlipapers-proquest-com.libezproxy.open.ac.uk/parlipapers/result/pqpresultpage?accountid=14697&groupid=95579&pgId=0e2d40c9-4d57-4d3b-928d-cc47d041156a&rsId=190A30B4493
@@ -551,13 +560,32 @@ The Resident Forester finally adds that events would have turned out differently
 
 So who was the  Resident Forester?  Could he have been Philip Ducural, the man who issued a warrant for the arrest of Warren James? He was a well-known poet and author and therefore skilled at creating a narrative and telling stories.
 
-See:                                                                             https://eprints.glos.ac.uk/9466/1/9466_Jason_Griffiths_%282019%29_PhD_thesis_Reading_the_Forest_A_history_and_analysis_of_Forest_of%20_Dean_literature.pdf
+See:      https://eprints.glos.ac.uk/9466/                                                                 
+https://eprints.glos.ac.uk/9466/12/9466_Jason_Griffiths_%282019%29_PhD_thesis_Reading_the_Forest_A_history_and_analysis_of_Forest_of%20_Dean_literature.pdf
 
 The following text has been transcribed using language, spelling and punctuation as close as possible to the original document.
 
 Ian Wright
 
 
+
+THE LIFE OF WARREN JAMES
+
+THE REPUTED CHAMPION OF THE FOREST OF DEAN
+
+DESCRIPTIVE OF THE FOREST RIOTS
+
+INCLUDING AN ACCOUNT OF
+
+JOHN HARRIS, ALIAS POISEFOOT.
+
+BY A RESIDENT FORESTER.
+
+MONMOUTH.
+
+PRINTED AND PUBLISHED BY HEATH, AGINCOURT-SQUARE.
+
+1831
 
 As the disturbances in the Forest of Dean are become the object of intense interest, both from the novelty of their nature, and the strict line of justice that has been adhered to, in regard to those implicated in the transaction, it may not…perhaps be amiss to consider the motives by which those misguided men were influenced.
 
