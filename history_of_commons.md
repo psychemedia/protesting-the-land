@@ -9,9 +9,65 @@ by George John Shaw -Lefevre Eversley
 
 Publication date 1894
 
-Forest of Dean pp.247-263
+pp1-26
+
+ENGLISH
+
+COMMONS AND FORESTS.
+
+CHAPTER I.
+
+Origin and History of Commons.
+
+In most parts of England and Wales there are to be found ranges of open land, which have never been subject to cultivation or agricultural improvement, and which have consequently remained in their original state of nature from the earliest times. Their permanence in this state has been due to the fact that the ownership of them is not absolute. They are burdened with the rights of numerous adjoining owners and occupiers to turn out cattle or sheep on them, and to dig turf or cut gorse, bracken, or heather thereon for fuel, litter, or thatching. The existence of such rights has prevented the nominal owners of the soil from exercising the full rights of inclosing and cultivating the land, and has indirectly been the means of securing to the public the unrestricted use and enjoyment of walking or riding over it in all directions, whatever may be their strict legal right. Such common lands are technically the wastes of the Manors in which they are situate, and must be distinguished from other lands, which, though open and uninclosed, are yet private property in the full sense of the term, and which the owners could at any time inclose with fences.
+
+These Commons are not to be found only in purely rural districts; many of them are near to London and other large towns. In such cases they form, as it were, cases of nature, in striking contrast to their surroundings. They have ceased, however, to be of any substantial profit to those who have rights of common over them. The growth of a large population in their neighbourhood has made it dangerous to turn out valuable cattle on them. Cheap coal has superseded the necessity of cutting turf or gorse for fuel. Bracken and heather are not wanted for litter or thatching. People have taken the place of cattle and sheep, and use the wastes for recreation, though it will be seen that the law has not recognised the change, or given full sanction to the new user. The common rights still subsist in law, though no longer of any practical value for the purposes which gave rise to them. They are valued by the adjoining owners of land only because they afford the means of preventing the owner of the soil, the Lord of the Manor, inclosing and appropriating the Common for building, and thus excluding the public.
+
+Where such urban or suburban Commons exist it is difficult to exaggerate their value to the public. They are natural parks, over which every one may roam freely; for though the public may be trespassers in strict law, there are no practical means of preventing their going upon these waste lands for exercise and recreation. They are reservoirs of fresh air and health, whence fresh breezes blow into the adjoining town. They bring home to the poorest something of the sense and beauty of nature.
+
+London has been exceptionally fortunate in this respect. Within fifteen miles of its centre there are no fewer than seventy-four such Commons, averaging 160 acres, and 120 smaller spaces, averaging 10 acres — making, with Epping Forest, a total of about 19,000 acres. Some of these, such as Hampstead Heath, Blackheath, Clapham Common, and the Hackney Commons, are bordered by a dense population. Others at a greater distance form almost a zone of open spaces, to which the suburban population is quickly tending. Thus to the West of London we find Wimbledon, Wandsworth, Barnes, Tooting, and Ham Commons, which, together with the Royal parks of Richmond, Bushey, Hampton, and Kew Gardens, make an almost continuous range of open land, which can never be built on. On the South are Mitcham, Streatham, Chislehurst, Hayes, Plumstead, and Bostall Commons, and the wide ranges of open land on the Surrey Downs, such as Epsom, Banstead, and Coulsdon Commons. To the East of London there is the great area of Epping Forest, of 6,000 acres, of which one-half has been rescued in recent years from those who had already inclosed and fenced it. The North of London is not so adequately provided with open spaces, and beyond Hampstead there is little but Stanmore and Tottenham Commons till we come to the Hertfordshire Commons, such as Berkhamsted, beyond the fifteen mile limit. No other populous district is so much favoured as London in this respect. But there are not a few towns which owe a great part of their popularity as health resorts to the breezy Commons which adjoin them. What, for instance, would Tunbridge Wells be without its Common, or Harrogate without its "Stray" or Malvern without its wide range of open hills or chase, or Eastbourne without its downs on Beachy Head?
+
+In rural England, though the Commons are not so essential for health and recreation, yet there arc many districts which owe their residential charm and value to these wild and picturesque open spaces. This is specially the case with Surrey, Sussex, and Hampshire, which are greatly favoured by the number of their Commons still remaining uninclosed, by reason, probably, of the land being unprofitable for cultivation, and offering no temptation in past times to inclose them. In the more mountainous parts of England and Wales the common rights over wide ranges of land have been the means of securing to the public the unrestricted access to and enjoyment of the mountain tops, and have prevented the owners of the land from excluding the public, in the same manner as the Scottish landowners have done in the case of their forests and moors.
+
+There is no accurate information as to the number and area of Commons which still remain uninclosed. So late as in 1871, the Inclosure Commissioners reported to Parliament that the Commons extended over an area of 8,000,000 acres, of which they said 3,000,000 were in the cultivated parts of England and Wales, and the residue in the mountain districts. Of this great extent they considered that one million acres might be cultivated with profit and advantage to the country, and that when this was effected there would still remain about one-sixth part of England and Wales open and uninclosed, and subject to common rights — an extent so great as to show how erroneous had been the apprehensions of the speedy inclosure of Commons.
+
+Two years later, however, the same Commission presented a report to Parliament with a very different tale. They had, in the interval, made a detailed examination of the tithe commutation awards, which covered the whole country, and showed distinctly how much in 1834 was Common land. By this it appeared that there were at that time no more than 2,630,000 acres of Common or Commonable land, or five and a half millions less than their previous estimate. From this a deduction has to be made of land inclosed under private Acts between 1834 and 1845, and under the Commons Act of 1876, and also of land which has been filched from Commons under the Statute of Merton. `[Deduction was made of inclosures under the Act of 1845.]` Making a rough estimate of these inclosures, it is probable that there remain from 2,000,000 to 2,250,000 acres of Commons still open. Of this, a very small proportion is believed to be suitable for cultivation as arable land. The remainder is either mountain land, which it would not be worth while to inclose with fences, or inferior land in cultivated districts or near to towns, which might be of value for residential purposes, or for adding to parks and game preserves, but which is of far greater value to the public in its wild and uninclosed state, contributing so much to the amenities of the districts, and affording unrestricted enjoyment to the public.
+
+Such Commons are confined to England and Wales; they do not exist in Ireland or Scotland. All the land in those countries, even where uncultivated and incapable of agricultural improvement, belongs to individual private owners, except so far as the recent Irish and Scotch Lands Acts have conceded rights of pasturage over adjoining mountain lands. There are no rights of common vested in adjoining owners, such as to forbid the inclosure and fencing of the land, and to prevent the owners of the soil excluding the public from it. Hence it arises that the Scotch landowners have been able to turn their moors into deer forests, and to prohibit the public from traversing them, or ascending the hills in search of the beauties of nature and fresh air. The reason is that Ireland and Scotland were not subjected to the Saxon and Norman Manorial systems, under which Manors, with their Lords and free and copyhold tenants, were created. The change from collective, tribal, or clan ownership of land to individual proprietorship was made without any transition, such as occurred in England under the feudal system. Had these countries passed through the same experience, it is almost certain that the occupiers would, at an early period, have been treated as the copyhold tenants were in England, and have had conceded to them fixity of tenure, with rights of pasturage and turbary over the adjoining mountains and moors; and the owners of such uncultivated lands would have had their ownership qualified by the rights of their neighbours, as was the case with Lords of Manors in England.
+
+There has been much discussion of late years as to the origin of English Commons. Till lately, the views of the feudal lawyers of mediaeval times were generally accepted, equally by antiquarians and historians, as by the Courts of Law. It was held that these open and uninclosed tracts were the uncultivated parts of areas of land, or Manors, granted originally by the Sovereign to individual owners, and that the rights of common over such wastes, enjoyed by the freehold and copyhold tenants of such Manors, had arisen from grants by their superior lords, or by custom, later recognised by law, in derogation of the lord's rights.
+
+Owing, however, to the investigations of Professor Nasse, Von Maurer, Sir Henry Maine, and others, another theory is now more generally accepted: namely, that the common rights now existing are in most cases survivals of a system of collective ownership of land by the inhabitants of their several districts, the prevalence of which in the early stages of communities has been traced over the greater part of Europe. Under this system there was originally no individual ownership of land. It was owned in common by village communities. That portion of it only which was suitable and necessary for the production of corn and other crops was inclosed and cultivated; the remainder was open to the cattle of all; and all the members of the community were entitled to cut turf and bracken therefor their fuel and litter. The inclosed part was generally divided into three great fields for a three-course system of husbandry, of which one field was in turn left in fallow. Each of these fields was divided into a certain number of equal parts, which were distributed annually by lot among the heads of families constituting the village community.
+
+Very frequently the cultivated land was thrown open to the cattle of all, after the completion of the harvest, and until it was necessary to shut it oif again, in the following year, for the next crop. Small portions of land were attached as gardens to the houses and homesteads of individual members, and acquired the status of private property. Other portions were inclosed from the open or common land, only as it became necessary to add to the cultivated part, in Consequence of the increase of population.
+
+By degrees the individual ownership of land was extended. The system of distributing the plots of the common fields by lot was given up; ownership in these parts became fixed in individuals, subject to the land being thrown open to the whole village after harvest. But the waste and uncultivated land still remained the common property of the community, and was called the "Folk-Land" — the People's Land.
+
+It is certain that a very large portion of the inclosed part of England was in early times cultivated on this common field system, with its three great fields in each village or parish, and with its waste lands open to all. A large part of the inclosures complained of in Tudor times consisted not of inclosures of the waste lands, but in doing away with the system of common fields, and in converting them into individual property, freed from the obligation of throwing them open during a portion of the year. Such inclosures continued to be frequent, under the authority of private Acts, down to modern times, and not a few cases still exist of land called Common Fields, or Lammas Land, held on this system of tenure, and thrown open during a part of each year. Interesting examples of it will be referred to later in the cases of Tollard Farnham and the Hackney Commons.
+
+The introduction of the feudal system gradually effected a great change in the relations of individuals to one another and to the waste lands. The new system had its origin in military necessity. The country was by degrees parcelled out into commands among military chiefs, who were at first appointed only for life, but who later acquired the right of inheritance for their eldest sons or heirs. The Chief assumed command, and later exercised the rights of property over the district assigned to him, which generally corresponded to the ancient village, and which became the "Manor." The Chief, thus appointed, had the right of summoning to arms the inferior landowners within his district or Manor, who thus became in a military sense his dependants, bound to render him military service. They held their land, however, on certain tenure, and not at the mere will of the lord, and they had the right of turning out their cattle on the waste land of the Manor. An inferior class of persons, cultivating small plots of land, fell into a much lower status, and by a process of commendation or subjection, lost their rights of property enjoyed under the Saxon system. They were considered as having no rights independently of the will of the lord. They held their land and houses at his caprice. These people became the villeins of the Manor. A yet inferior class of persons with no holdings of land became the serfs or bondsmen of the lord, without any rights whatever. The feudal Chief thus became lord of the district or Manor. He came to be regarded as owner of the Manor, subject to the admitted rights of the larger landowners or free tenants; and the Common or "Folk-land" was held by the lawyers to be vested in him subject to the rights of pasture of the free tenants.
+
+The process by which this change from the Saxon system to the feudal system was effected has been well described by Monsieur de Laveleye. "The fief having been granted by the Sovereign to the lord, the latter assumed as a consequence that the whole land belonged to him. He did not, on this account, suppose himself able to despoil the peasants of the enjoyment of their land or of their right of using the common Forest or pasturage, but these rights were regarded as privileges exercised over the property of the lord."
+
+Already before the Norman conquest this change had begun in England, and was largely in force in the time of Edward the Confessor. But as the result of that event the feudal system was universally established. A vast proportion of the land was confiscated, and was granted anew to the followers of the Conqueror, to be held on military service; and they, on their part, introduced the feudal system into the districts or Manors so granted to them.
+
+From this change, caused by the introduction of the feudal system and the subordination of the rights and customs of local communities to feudal lords, most important results followed, which have made themselves felt down to the present time, by creating a difference between popular traditions and conceptions, and legal theories.
+
+An early result of the new position of the feudal Chiefs or Lords of the Manors was their claim to treat the common lands as their own property, subject only to the admitted rights of the free tenants of their Manors, and without regard to the users of their villeins and serfs. There followed on this the further claim to inclose portions of the waste for their own use, or for the creation of small holdings, to be farmed by their villeins. This claim was vigorously resisted by the freehold tenants of the Manors who had rights of pasture over the Commons. Ultimately it was decided by Parliament (which then consisted only of Barons, no popular representatives having yet been summoned) in the well-known Statute of Merton (20 Henry III., c. 4, A.D. 1235) that the Lords of Manors should be allowed to inclose, or approve, as it was called, parts of the waste lands of their Manors, provided it should appear on complaint of the free tenants that there was left a sufficiency of the Common to satisfy their rights, with free access thereto.
+
+__The Statute runs:—__ "As also because many great men in England (who have enfeoffed knights and those who hold of them in free tenure of small tenements in their great Manors) have complained that they cannot make their profit of the residue of their Manors, as of wastes, woods, and pastures, although the same feoffees have sufficient pasture, as much as belongeth to their tenements, it is provided and granted that whenever such feoffees do bring an assize of novel disseisin for their common of pasture, and it is acknowledged before the justices that thoy have as much pasture as sufficeth for their tenements, and that they have free ingress and egress from their tenement into the pasture, then let them be contented therewith, and they of whom it was complained shall go quit of as much as they have made their profit of their lands, wastes, woods, and pastures. . . . If it be certified by the assize that the plaintiffs have sufficient pasture with ingress and egress, as before is said, let the others make their profit of the residue, and go quit of the assize."
+
+The measure thus passed was, in fact, the first Inclosure Act, but, unlike modern Acts of that kind, it had in view the interests not of the community at large, but of the great landowners. Nevertheless, it threw the onus of proof, whether sufficiency of Common was left for the freehold tenants, on the Lord of the Manor. But it ignored altogether the use of the Commons by the villeins in respect of their holdings of land, or by the inhabitants generally, in respect of the cutting of turf and firewood. It enabled the lord, therefore, to inclose without regard to these people.
+
+As a large proportion, probably amounting to two-
 
 TO DO
+
+
+great value of their Commons; and they maintained that the disuser of rights by the Commoners had operated as an abandonment of such rights, enabling them to put in force their powers under the Statute. In the succeeding chapters the development of the two movements, thus alluded to, will be described, and it will be shown how the new contentions of Lords of Manors and their attempts to appropriate the Commons have been met, and finally defeated, both in the Law Courts and in the Legislature.
+
+Forest of Dean pp.247-263
+
 
 The Forest of Dean, of about 19,000 acres in extent, is another of the few remaining Royal Forests, which have come under the consideration of Parliament in recent years, and where the policy of maintenance has prevailed over that of inclosure.
 
@@ -87,3 +143,76 @@ I further informed him that we had reason to know that very strong opposition wo
 
 The effect of this correspondence was that the Government announced that they did not intend to proceed farther with their measure for inclosing the Forest; and that they were advised by their Law Officers that they had, under an existing Act, power to sell limited parts of the waste, from time to time, for the necessities of the population. It resulted, therefore, that practically the same policy was laid down with respect both to the New Forest and the Forest of Dean. They are both to be preserved henceforth in the interest of the public and of the commoners, while the Crown is secured in its long established right of making large but temporary inclosures for the planting and growth of timber.
 
+
+Forest of Dean 1836
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18361022/052/0003
+Gloucestershire Chronicle - Saturday 22 October 1836
+
+---
+
+TO DO
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18360206/028/0003
+Gloucestershire Chronicle - Saturday 06 February 1836
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18360227/032/0004
+Gloucestershire Chronicle - Saturday 27 February 1836
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18361112/012/0001
+Gloucestershire Chronicle - Saturday 12 November 1836
+FOREST OF DEAN, *And Hundred of St. Briavels, in the County of Gloucester.*
+
+NOTICE is hereby given, that application is intended to be made to Parliament in the ensuing Session for leave to bring in a Bill, in order to obtain an Act, dividing, allotting, and enclosing, or otherwise appropriating, the open and commonable Lands His Majesty's Forest of Dean, in the County of Gloucester; for settling, regulating, and adjusting the tenure and enjoyment of Lands heretofore encroached and enclosed from the said Forest, and also the tenure and enjoyment, by Tonnage Duty, Royalty, or otherwise, of the Mines, Minerals, and Quarries within the Hundred of Saint Briavels, in the said County, and all other rights and interests in, to, or concerning the said Lands, Mines, Minerals, and Quarries; and for disafforesting and parochializing the said Forest, or some parts thereof; and for establishing a Court of Requests, or other Courts, in the said Hundred; and for other purposes.
+
+Dated this day of November, 1836.  
+By order of the Commissioners of His Majesty’s Woods, Forests, Land Revenues, Works, and Buildings, PEMBERTON, CRAWLEY, & GARDINER, 20, Whitehall Place, London.
+
+*Forest of Dean, County of Gloucester.*
+
+NOTICE is hereby given, that the VERDERERS' of His Majesty’s FOREST of DEAN in the Count/of Gloucester, will HOLD a COURT of SWANIMOTE, at the SPEECH HOUSE, within the said Forest, on Monday, the 21st day of November instant, at 11 o’clock in the forenoon. JOHN LUCAS, Steward. Newnham, 10th November, 1886.
+
+---
+
+https://archive.org/details/in.ernet.dli.2015.223567/page/n1/mode/2up
+Common Land And Inclosure
+by E.C.K. Gonner
+
+Publication date 1912
+
+p. v-x
+
+PREFACE
+
+The main object of the present work is to trace the process whereby the land of this country came into agricultural use under full individual control. That movement, as will be seen, is treated as continuous and as due in the main to the operation of large economic and, so to say, normal causes. While the rapidity and extent of inclosure varies from time to time, and while its kind undergoes certain changes, progress continues. Moreover, despite the particular features which appertain to different periods, the movement owes its impetus and direction to certain dominant though often undetected influences. Hence the emphasis laid in the following pages on such factors as the soil, the effect of the addition of new agricultural land on the use of that already in cultivation, the date of inclosure from the wild state, the influence of progress in farming, and of the new demands arising from an advance in industrial development The connection of these with the progress of inclosure and with its results, differing as these often do from epoch to epoch, are treated of in detail.
+
+But there is one subject touched on, with regard to which I may be blamed for not attempting any definite and general conclusion. I refer to the effect of the eighteenth century inclosures upon the condition of the labouring class. As a matter of fact the controversy of that period is subjected to very careful examination, and conclusions are reached which may be employed in support of varying views; but when it comes to a question of general approval or condemnation, I find a simple one-sided decision difficult. Inclosure is so much a part of a wider economic movement, and so often a consequence rather than a cause, that to set out its results as wholly bad or wholly good seems to me quite impossible. Some results, indeed, are fairly clear, but they do not point uniformly in the same direction.
+
+Thus, on the one hand, it is pointed out that in certain parts of the country the inclosures of that century facilitated the operation of the forces which led to larger farming and so to the diminution and partial extinction of the yeomen and small farmers. Similarly, it seems probable that a considerable amount of common field inclosure in a district often led to a temporary pressure on poor relief.
+
+On the other hand, the beneficial effect on farming taken as a whole is undoubted. This displays itself on all sides, and particularly in the increased utilisation of what is, after all, the distinctive agricultural wealth of England, rich grazing and dairy lands. Again, the examination attempted and the tables adduced seem to me to prove that rural population at the end of that century did not vary with inclosure, and that this movement was not at any rate the main cause of the increase in poor relief expenditure. Nor does the accusation of general arbitrary or unfair treatment of the small farmer or the poor owner appear to me tenable.
+
+In my view the inclosure movement was an inseparable part of a much wider movement, and hence an estimate of its results must take into account not only the local disturbance and the individual consequences it entailed, but the broad general effects which it achieved or rendered possible. But for this, regard must be paid to certain facts or aspects which for one reason or another have received inadequate attention. Among such are the importance of inclosure to progressive farming, the strict geographical limits within which inclosure occurred, and the close connection between inclosure from the wild state and the waste and inclosure of land under arable. Of even greater importance was the change whereby agriculture from being a means of subsistence to particular families had become a source of wealth to the nation, a change in progress alike in the seventeenth and eighteenth centuries, and one which made improvement in its productivity momentous in a national sense. From this point of view the retention of a system which withheld land from its best use was an obstacle to general progress' only to be defended by arguments equally applicable to any improvement or invention in a productive process.
+
+On the other hand, the consequences of the alteration were manifold. Owing in the main to the circumstances of the time, and principally to the mechanical change which led to the disappearance of industries allied to and plied with agriculture, the allotments to the small holders were often inadequate as a sole means of livelihood, and in a large number of instances soon sold. As a consequence, small independent holders grew rapidly fewer, and in agriculture as in industry the proportion of those who work for and live by wages increased. But this occurred, it should be remembered, not only in counties or districts subject to inclosure in the eighteenth century, but in those where there was little trace of such; not only again in regions where at some time or other the open field had existed, but in those where there is reason to believe open field either never existed or played a very insignificant part
+
+I have purposely abstained from dwelling at length on the incidents of a few cases. Such a method, while it may make things more picturesque, is misleading when the instances are few out of many thousands, and not necessarily typical.
+
+To touch further on this point would travel outside the province of a preface, and lead to a discussion of what forms the subject of the text itself.
+
+...
+
+
+---
+
+
+
+https://archive.org/details/landlaws03pollgoog/page/n41/mode/2up
+The land laws, 2nd edition
+by Pollock, Frederick, Sir, 1845-1937
+
+Publication date 1887
+
+Search for "folk-land"
+
+folk land, book land, heir land, commn land
