@@ -1,78 +1,8 @@
 # Riots in the Forest of Dean
 
-For many years, the *current ways* were the same as the *old ways* or the *traditional ways*.
+In the early part of the 19th century, in many rural locations, such as the Forest of Dean, the *current ways* were still the same as the *old ways* or the *traditional ways*.
 
-TO DO history of forest from English Commons book?
-
-https://archive.org/details/englishcommonsa00evergoog/page/n277/mode/2up
-English Commons and Forests: The Story of the Battle During the Last Thirty Years for Public ...
-by George John Shaw -Lefevre Eversley
-
-Publication date 1894
-p247-
-
-```{admonition} Working a mine in the Forest, November 1822
-:class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18221105/022/0004
-Sun (London) - Tuesday 05 November 1822
-
-VICE-CHANCELLOR'S COURT, Nov. 4.
-
-PRACTICE OF THE COURT WITH RESPECT TO INJUNCTIONS.
-
-COURT `sic` AND CO. V. MOUNTJOY AND CO.
-
-Mr. HART moved for an injunction against the defendants under the following circumstances:—His Majesty is seized, in right of the Crown, of the Forest of Dean, in Gloucestershire, which contains much iron and coal. Any person who may be desirous of working a mine in the forest must make application to the King's Steward of the Forest, who, if he think fit, will grant the person so applying a tract of land for that purpose.— In 1800 the plaintiffs obtained the grant of a piece of ground, and the defendants also were put into possession of some contiguous land. The respective boundaries of each tract of land were accurately defined. The plaintiffs lately had reason to suspect that the defendants were encroaching upon their boundaries; and on the 20th of August they had the ground dialled, when it appeared that the defendants had entered the boundaries of the plaintiff's, and were about to sink a pit there in order to discharge the water out of their own mine into that of their neighbours', the effect of which would be the complete destruction of the works. The injunction he applied for was to restrain the defendants from proceeding with the construction of the pit.
-
-The VICE-CHANCELLOR observed, that the Court was always unwilling to issue an injunction on an *ex-parte* application, unless the absolute necessity of the proceeding were evident. In the present case there certainly was *prima facie* evidence of necessity, but at the same time, if the Learned Counsel had reason to believe that no irreparable mischief would ensue from the delay necessary in order to give the defendants notice, the Court would not grant the injuction, but let the case stand over. The Lord Chancellor had lately established a custom which was unknown to his predecessors—namely, that of directing an injunction to stand over until the defendant received notice of the motion. This practice he (the Vice-Chancellor) was desirous of following, because he knew that frequently the desire to prevent irreparable mischief being done to a plaintiff caused irreparable mischief to be inflicted upon a defendant.— The Court, therefore, in future, would expect, that on an application for an injuncton, it should appear upon affidavit either that there had not been time, or that it would have been dangerous to give the defendant notice, otherwise the motion would be refused.
-
-Mr. HART said he was informed by his clients that the most unfortunate results would ensue to them if the injunction did not immediately issue.
-
-The VICE-CHANCELLOR said, that under these circumstances, and because the rule laid down by the Lord Chancellor was not generally known, he would grant the injunction in the present instance.
-```
-
-Another report provides a bit more detail on the practicalaties associated with identifying the extent of the land assigned to a miner.
-
-```{admonition} The King's Gavellers mark out a circle of land, November 1822
-:class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18221116/024/0003
-Morning Herald (London) - Saturday 16 November 1822
-
-VICE CHANCELLOR'S COURT, FRIDAY
-
-COUNT `sic` AND CO. V. MOUNTJOY AND OTHERS.
-
-This was a motion by Mr. BELL, on the part of the defendants to dissolve an injunction granted by his Honour in June last, by which the said defendants were restrained from working a coal mine. Mr. Wetherell was with Mr. Bell. The arguments in favour of the motion were, that the title of the plaintiffs being precisely that of the defendants, it was for them to show cause why the latter should not have the same liberty. The facts of the case were these:—Both parties had rented grounds in the Forest of Dean, in Gloucestershire, for the purpose of establishing and working colleries. The manner in which land is let in that forest is this. The King's *Gavellers* measure out to each tenant a space of ground of a circular form, 24 feet in diameter, called a *gale*, in which they may sink a shaft and work the coal-mines below, according to the custom of the forest.
-
-Mr. HART and Mr. PHILMORE on behalf of the plaintiffs, urged the continuance of the injunction, on the grounds that to dissolve it would be to do an irreparable injury, while its continuauce could only cause one for which compensation might be made. If the defendants were to continue the mine where they had already sunk a deep hole, the consequence would be that when they arrived at the boundaries of the adjacent mine, a sudden inundation must overwhelm_the plaintiff's workmen.
-
-His HONOUR said not knowing the custom of the forest, he should only dissolve so much of the injunction as restrained generally. A Jury should be summoned to determine the custom of the forest, and surveyors appointed to *dial* according to their verdict. The Jurors should be miners well acquainted with the customs of the place. He would be thus prepared to consider defendant's motion on the last day of Term.
-```
-
-
-
-TO DO
-
-TELLING:
-
-
-Miners trying to retain original way of life;
-
-loss of the Book of Deniis, laws of the free miners;
-
-copper mine incoming being undermined by free miners.
-
-Several months earlier, it seems as if there had also been some unrest in the Forest.
-
-```{admonition} Disturbances in England, May 1822
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0002353/18220505/012/0011
-Champion (London) - Sunday 05 May 1822
-
-DISTURBANCES IN ENGLAND.—Some disturbances have broken out amongst the miners of the Forest of Dean, similar to those of the mining districts of Monmouthshire and South Wales.
-```
-
-A widely syndicated article published few days earlier had reported on some of those disturbances.
+But the times were changing. Industry was starting to pull workers away from the fields, and wages were falling. In Monmouthshire, in the early 1820s, iron-workers and miners resorted to violent strike action to express their dissatisfaction:
 
 ```{admonition} Disturbances in Monmouthshire, May 1822
 :class: dropdown
@@ -83,16 +13,47 @@ DISTURBANCES IN MONMOUTHSHIRE.
 
 (From the Gloucester Journal of Monday.)
 
-On Friday last, the 26th instant, a Meeting of the Magistrates and Deputy Lieutenants was held at Usk, which his Grace the Duke of Beaufort, Lord Lieutenant, presided, for the purpose of taking into consideration the disturbed state of the county. The 1st Resolution states, that, "comparing the low prices of provisions with the present average rate of wages paid to the colliers, they are in a much better stale than the labouring classes in general; and that, in the present depressed state of the iron trade, no advance in their wages appears practicable." The remaining Resolutions relate to the measures to be enforced for the maintenance of the peace, and for bringing the refractory to sense of their duty to their employers and families.
+On Friday last, the 26th instant, a Meeting of the Magistrates and Deputy Lieutenants was held at Usk, which his Grace the Duke of Beaufort, Lord Lieutenant, presided, for the purpose of taking into consideration the disturbed state of the county. The 1st Resolution states, that, "comparing the low prices of provisions with the present average rate of wages paid to the colliers, they are in a much better state than the labouring classes in general; and that, in the present depressed state of the iron trade, no advance in their wages appears practicable." The remaining Resolutions relate to the measures to be enforced for the maintenance of the peace, and for bringing the refractory to sense of their duty to their employers and families.
 
 A Special Sessions of the County Magistrates was also held at Pontypool, on Friday se'nnight, which, though convened at a very short notice, was numerously attended. A reward of 50 *l.*. was ordered to be offered for the conviction of persons going about in disguise, in women's clothes and with blacked faces, by night, exercising any species of threat or intimidation; a Proclamation was also ordered for preventing or suppressing mendicity; and other energetic and necessary measures for preserving and restoring the peace of the county were adopted.
 
-The preceding night (Thursday) violent attack had been made on a house at Tredegar, in which were some men who still continued at work; as they repelled the violence by fire-arms, one or more of the assailants were wounded, which, it is expected, will lead to their being discovered and taken. Early on Saturday morning a large party of colKers assembled Gelly Haw Colliery, stopping by force and chaining together nineteen waggons laden with coals for the Tredegar Works. Intelligence of this outrage, and complaint having been made to J. H. Moggridge, Esq. the neighbouring Magistrate, he instantly repaired to the spot, accompanied by Capt. Lewis's troop of Yeomanry Cavalry, who were at the time breakfasting at Woodfield. Every endeavour to dissuade the misguided workmen from their illegal purpose, and every warning of danger and friendly exhortation proving vain, the Riot Act was read, and the consequences of remaining together after the expiration of an hour or of any previous breach of the peace, fully explained. In less than 20 minutes, however, a general attack was made on the waggons in the rear, and the coals were thrown out; upon which, hoping still to avoid the painful alternative of ordering the cavalry to charge, the Magistrate seized one of the ringleaders; but, after some resistance, he was rescued, and the cavalry were then ordered to clear the ground, which was effected in few minutes, with equal celerity and humanity, not a single individual being even wounded. The waggons were then forwarded under guard of the cavalry, and, together with 55 others, making in the whole 74 waggons, were conveyed, notwithstanding repeated attempts to break up the roads in advance, to within three miles of the Tredegar Works, where they were met by a detachment of the Scots Greys, under Capt. Wyndham, accompanied by the Vicar of Abergavenny.
+The preceding night (Thursday) violent attack had been made on a house at Tredegar, in which were some men who still continued at work; as they repelled the violence by fire-arms, one or more of the assailants were wounded, which, it is expected, will lead to their being discovered and taken. Early on Saturday morning a large party of colliers assembled Gelly Haw Colliery, stopping by force and chaining together nineteen waggons laden with coals for the Tredegar Works. Intelligence of this outrage, and complaint having been made to J. H. Moggridge, Esq. the neighbouring Magistrate, he instantly repaired to the spot, accompanied by Capt. Lewis's troop of Yeomanry Cavalry, who were at the time breakfasting at Woodfield. Every endeavour to dissuade the misguided workmen from their illegal purpose, and every warning of danger and friendly exhortation proving vain, the Riot Act was read, and the consequences of remaining together after the expiration of an hour or of any previous breach of the peace, fully explained. In less than 20 minutes, however, a general attack was made on the waggons in the rear, and the coals were thrown out; upon which, hoping still to avoid the painful alternative of ordering the cavalry to charge, the Magistrate seized one of the ringleaders; but, after some resistance, he was rescued, and the cavalry were then ordered to clear the ground, which was effected in few minutes, with equal celerity and humanity, not a single individual being even wounded. The waggons were then forwarded under guard of the cavalry, and, together with 55 others, making in the whole 74 waggons, were conveyed, notwithstanding repeated attempts to break up the roads in advance, to within three miles of the Tredegar Works, where they were met by a detachment of the Scots Greys, under Capt. Wyndham, accompanied by the Vicar of Abergavenny.
 
 Deserting Farms.—The desertion of farms by their occupiers, after a thorough clearance of the property, is beginning to be very alarming in part of Monmouthshire. It is an absolute fact that two Magistrates, residing in that county, travelled eighteen miles on Saturday se'nnighl to give possession to the landlord of a deserted farm, and in order to complete the business, they must travel as many more! The same Magistrates had the mortification to learn as they went along, that several other tenants in that part of the county had already done the same thing!
 ```
 
-But what had been the trigger for those disturbances?
+As ever, certin elements of the press perhaps sought to read more intrigue into the action than perhaps it deserved?
+
+```{admonition} Refractory colliers, radical instruments of political emissaries?, May 1822
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0002787/18220505/030/0008
+British Neptune - Sunday 05 May 1822
+
+Very serious disturbances have taken place in Monmouthshire, particularly at Tredgar, where it has been necessary to call out the military to preserve the peace. These outrages among the colliers are the more remarkable, as the wages they receive are much better than those of the labouring classes in general. The colliers have been lately in many places very refractory, but the ministerial papers, it is presumed, will soon make a notable discovery that they are *Radicals*, and the instruments of political emissaries!
+```
+
+Miners in Staffordshire were also moved to take action.
+
+```{admonition} Distrubeances in Staffordshire, May 1822
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0002357/18220514/023/0003
+New Times (London) - Tuesday 14 May 1822
+
+DISTURBANCES IN STAFFORDSHIRE. [FROM THE STAFFORDSHIRE ADVERTISER OF SATURDAY LAST.]
+The south-western district of this county still continues in a , very unsatisfactory state. the miners generally refusing to work for the reduced wages, and the masters persisting in their determination not to employ them at the old ones. Indeed the few masters who have hitherto continued to pay the old rate of wages have lately taken the determination of reducing them—a very numerous meeting of the trade having been held at Walsall on Tuesday last, when it was unanimously resolved not to give any other wages than those for which the men refused to work. In consequence of the disposition which had been manifested to offer violence to persons and property, it was deemed advisable to make more extensive arrangements for preserving the peace of the district, and four troops of the Yeomanry Cavalry were ordered on duty in the neighbourhood till their places could be supplied by regulars. Mr. Littleton, their Lieutenant Colonel, left town to take the command of them. In the course of the week Earl Talbot, the Lord Lieutenant, visited the neighbourhood, where he concerted such measures with the Magistrates, as it is hoped may prevent any evil consequences to the public peace from the continuance of the struggle between the masters, and the men. The Yeomanry Cavalry have bean since relieved, after having been thanked by the Lord Lieutenant for the promptitude with which they had turned out to support the civil power. They have been replaced by a detachment of the 73d Regiment of Infantry, another of the 2d, and another of the Scots Greys. During the week the Magistrates, the Rev. Mr. Leigh, of Bilston, the Rev, J. Clare, the Rev. A. B. Haden, and Joseph Lane, Esq. assisted by parties of the militia staff and Yeomanry Cavalry, apprehended many of the ringleaders in the late disturbances, and lodged them in the county gaol. The conduct of these Magistrates deserves the thanks of their neighbourhood and the public at large.
+```
+
+Just over the English-Welsh border, the distubances also spilled over to the Forest of Dean.
+
+```{admonition} Disturbances in England, May 1822
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002353/18220505/012/0011
+Champion (London) - Sunday 05 May 1822
+
+DISTURBANCES IN ENGLAND.—Some disturbances have broken out amongst the miners of the Forest of Dean, similar to those of the mining districts of Monmouthshire and South Wales.
+```
+
+For the *Bristol Mercury*, the price of iron seems to be have to created a situation in which the reduction in wages of the colliers would necessarily follow, but the root cause was the nature of the House of Commons, and the need for reform.
 
 ```{admonition} Cause of the Disturbances in the Great Mining Districts, Aptil 1822
 :class: dropdown
@@ -101,28 +62,71 @@ Bristol Mercury - Saturday 27 April 1822
 
 CAUSE OF THE DISTURBANCES IN THE GREAT MINING DISTRICTS.
 
-The Country has now, unfortunately in more parts than one, an opportunity of practically proving the justice of the recent opinion, so authoritatively pronounced by Lord Londonderry, as to the *advantages of low wages*, as well as of the truth of his assertion, that *"all classes were in a stale of prosperity, excepting the agricultural."* The state to which his Lordship and his colleagues have reduced the Country, compels the manufacturer to reduce the prices of labour; for, if he sells the product of his manufacture at all, he must sell it at low prices, and to do this he must manufacture cheaply; consequently labour (the cost of which forms so material a part of the value of manufactured articles) must be had at low prices.
+The Country has now, unfortunately in more parts than one, an opportunity of practically proving the justice of the recent opinion, so authoritatively pronounced by Lord Londonderry, as to the *advantages of low wages*, as well as of the truth of his assertion, that *"all classes were in a state of prosperity, excepting the agricultural."* The state to which his Lordship and his colleagues have reduced the Country, compels the manufacturer to reduce the prices of labour; for, if he sells the product of his manufacture at all, he must sell it at low prices, and to do this he must manufacture cheaply; consequently labour (the cost of which forms so material a part of the value of manufactured articles) must be had at low prices.
 
-Lord Londonderry's maxim in favour of low wages could not have come more ungraciously out of the mouth of any living being; for *he* has been, above all others of the present day, the man who, by laying immense burdens on the Country, has rendered it IMPOSSIBLE *for the labourer to subsist an LOW wages*. The fact is, the taxes, *seen* and *unseen*, *direct* and *indirect* (the latter, be it ever remembered, vastly more onerous than the former), take so much from every man's labour and income in this country, as either to cripple his means, or wholly to deprive him of the ability to live in any sort of comfort or ease without enormous wages, or a great income from some source or other. Under these circumstances, the Iron-Masters (for, although the argument bears alike on other manufacturers, the dreadful situation of the great Mining Districts of the kingdom preferablv claims our more immediate attention), finding that they must either sell their iron, when made, at a price lower than ever before known, or not at all, have (since the months of June or July last) made, or attempted to make, some two, and others three, distinct reductions in the wages of their workmen; and, great as must be the amount of these reductions, we are not aware that it is at all disproportionate to the necessities of their case; on the contrary, if the price of iron should not rise, of which permanently there is very little room to hope, it is well understood that still other reductions in the expense of making iron must take place, or the works cannot be carried on but at a loss, and consequently cannot be expected long to be carried on at all, at least to any thing like their present extent. Here then exists an absolute necessity for *low-priced labour*; and feeling this, not only from the exercise of their common sense, but from experimental suffering (for we have heard, from authority which we have no reason to doubt, that great losses were endured by several very respectable Iron-Masters last year; and it is known too well, that absolute stoppages of others in the central Mining Districts have actually taken place) the Iron-Masters generally have endeavoured to reduce the wages of their workmen accordingly; and what has been the consequence, the deplorable state of Staffordshire, Shropshire, Monmouthshire, and South Wales, forcibly proclaims in a language which goes at once to the heart and to the understanding of every one.
+Lord Londonderry's maxim in favour of low wages could not have come more ungraciously out of the mouth of any living being; for *he* has been, above all others of the present day, the man who, by laying immense burdens on the Country, has rendered it IMPOSSIBLE *for the labourer to subsist an LOW wages*. The fact is, the taxes, *seen* and *unseen*, *direct* and *indirect* (the latter, be it ever remembered, vastly more onerous than the former), take so much from every man's labour and income in this country, as either to cripple his means, or wholly to deprive him of the ability to live in any sort of comfort or ease without enormous wages, or a great income from some source or other. Under these circumstances, the Iron-Masters (for, although the argument bears alike on other manufacturers, the dreadful situation of the great Mining Districts of the kingdom preferably claims our more immediate attention), finding that they must either sell their iron, when made, at a price lower than ever before known, or not at all, have (since the months of June or July last) made, or attempted to make, some two, and others three, distinct reductions in the wages of their workmen; and, great as must be the amount of these reductions, we are not aware that it is at all disproportionate to the necessities of their case; on the contrary, if the price of iron should not rise, of which permanently there is very little room to hope, it is well understood that still other reductions in the expense of making iron must take place, or the works cannot be carried on but at a loss, and consequently cannot be expected long to be carried on at all, at least to any thing like their present extent. Here then exists an absolute necessity for *low-priced labour*; and feeling this, not only from the exercise of their common sense, but from experimental suffering (for we have heard, from authority which we have no reason to doubt, that great losses were endured by several very respectable Iron-Masters last year; and it is known too well, that absolute stoppages of others in the central Mining Districts have actually taken place) the Iron-Masters generally have endeavoured to reduce the wages of their workmen accordingly; and what has been the consequence, the deplorable state of Staffordshire, Shropshire, Monmouthshire, and South Wales, forcibly proclaims in a language which goes at once to the heart and to the understanding of every one.
 
 For these consequences, *where they are the result solely of low wages*, the masters are not answerable. It is the work of necessity on their part; and, in a natural and healthy state of the country, moderately low wages may be desirable; because the extent of the sale of the manufactured article, next to its goodness, depends upon its cheapness; but it may be, and it certainly is, that man may he oppressed by such a rate of wages as alone the manufacturer can afford to pay, or that it is the interest of the manufacture itself should be given;—but then this is solely caused by the effect of measures emanating from a bad administration of public affairs.
 
 Where Government takes a great proportion of the proceeds of labour and of the income of property to its own use, it follows that by *so much* the *less* remains for the use of the individuals who compose the aggregate of the society so *mis*-governed. Thus to apply this indubitable principle in political economy to the present unhappy case of the labouring poor in this country, it was admitted by a very acute disciple of the Pitt school of politics, but who from woful experience came at length to doubt the infallibility of its principles; and who was himself at the time in Parliament, that considerably more than one half of the wages of every poor man's labour went in taxes; and the accuracy of this statement has not only never been disproved, but is capable of defying disproof. There is no doubt it is so. It is not because the tax-gatherer and the titheman do not call periodically at the door of the labourer for assessed taxes, and for a tenth part of the produce of the earth, that he therefore does not pay taxes, and tithes, and poor-rates too; though he may be even discharged from the poor-rate by the humane consideration of the magistrates. The poorest labourer pays all these burdens in the increased price of the provisions and necessaries of life; not an article of food goes into his mouth, not a particle of raiment clothes his back, but he pays so much the more for them all than he would if there were no taxes, no tithes, no poor-rates; and therefore he contributes in reality and in fact to all these public burdens, and enormously too, as Mr. Preston has demonstrated; for, as the Duke of Bedford said at the late Cambridge County Meeting, with truth unquestionable, *There was scarcely a thing but what was under the gripe of the excise-man or the tax collector; even the very light of heaven was doubly taxed; first in the manufacture of the glass, and then in the assessed taxes. The poor man, who creeps into his hovel, is taxed for the candle, the miserable candle, that lights him to his pallet. Thus it is,"* as the Noble Duke added, *"that taxation takes hold of every thing;"* and thus it is that taxation, by taking hold of the poor man's scanty means, renders low wages totally unequal to the decent support of himself and family.
 
-These are truths which in the present state of things it behoves no one to be ignorant of; but above all men, *that Which their workmen at present FEEL*, it behoves the Iron-Masters to *know*. The alarming situation of the Mining Districts arises not mainly out of the fault either of the master or the man, but out of the present dreadfully over-burdened state of the country, which will not permit on the one hand the labourer to exist on *low* wages, and which at the same time will not admit of the master selling the produce of his works at such price as will enable him to afford *high* wages. It follows then, necessarilv, that it is the real interest of the Iron-Master to promote such retrenchment and reform as will relieve the country of a large proportion of its public burdns; and the master-key to all these is such a *Reform in the Representation of the People in the Commons House of Parliament* as will restore Parliaments to their shorter term of duration in better times, and extend the elective franchise so as to make the exercise of it more like what it was in the happier days of our forefathers, and a more equitable resemblance of that which the Constitution intended, and which it is the inalienable right of Britons to enjoy. For taxation without representation is not only, what Lord Chathamn called it, "TYRANNY," but it will also in the end be found to be the Most MISTAKEN AND MISCHIEVOUS POLICY.
+These are truths which in the present state of things it behoves no one to be ignorant of; but above all men, *that which their workmen at present FEEL*, it behoves the Iron-Masters to *know*. The alarming situation of the Mining Districts arises not mainly out of the fault either of the master or the man, but out of the present dreadfully over-burdened state of the country, which will not permit on the one hand the labourer to exist on *low* wages, and which at the same time will not admit of the master selling the produce of his works at such price as will enable him to afford *high* wages. It follows then, necessarily, that it is the real interest of the Iron-Master to promote such retrenchment and reform as will relieve the country of a large proportion of its public burdens; and the master-key to all these is such a *Reform in the Representation of the People in the Commons House of Parliament* as will restore Parliaments to their shorter term of duration in better times, and extend the elective franchise so as to make the exercise of it more like what it was in the happier days of our forefathers, and a more equitable resemblance of that which the Constitution intended, and which it is the inalienable right of Britons to enjoy. For taxation without representation is not only, what Lord Chathamn called it, "TYRANNY," but it will also in the end be found to be the Most MISTAKEN AND MISCHIEVOUS POLICY.
 
 The Mining Districts of Staffordshire and Shropshire are reported to be, in some respects, even in a worse situation than those of Monmouthshire and South Wales; and in the Forest of Dean disturbances are said to have broken out.
 ```
 
-## The traditiom evolves, but all's well
+## Land Reform in the Forest?
 
-Almost a decade later ... TO DO
+More serious, though, were the disturbances of a decade or so later.
 
+In Parliament, at the start of the 1830s, there were calls to review land ownership in the Forest, as well as the rights of the Foresters dwelling there.
+
+```{admonition} Notice of a Bill, April 1830
+:class: dropdown
+https://api.parliament.uk/historic-hansard/commons/1830/apr/05/forest-of-dean
+FOREST OF DEAN.
+HC Deb 05 April 1830 vol 23 c12761276
+Lord Lowther gave notice, that on the 29th of April he would move for leave to bring in a Bill to ascertain the boundaries of the Forest of Dean.
+```
+
+The Bill duly arrived, although slightly later than had originally been planned...
+
+```{admonition} A Bill to ascertain the boundaries of the forest of Dean, May 1830
+:class: dropdown
+https://api.parliament.uk/historic-hansard/commons/1830/may/18/forest-of-dean
+FOREST OF DEAN.
+HC Deb 18 May 1830 vol 24 cc863-4863
+Lord Lowther rose to move for leave to bring in a Bill to ascertain the boundaries of the forest of Dean, which he said might be made a very valuable property. It contained 23,000 acres of land well calculated to grow forest timber. It contained also coal, lime, and iron stone, in abundance; but these were of little value to the Crown, because the inhabitants of the surrounding districts claimed a right to dig for them, and carried that right so extensively into practice, that the revenue derived by the Crown from this large tract did not exceed 800l. per year. Disputes, too, continually arose, respecting the privileges of these free miners as they called themselves, and it was therefore proper that the rights of the Crown and of these people should be settled. He proposed to accomplish that by bringing in a bill to appoint commissioners to inquire into the rights and tenures of all persons claiming privileges or property there, and whose reports, when laid before Parliament, might enable it to settle the whole matter by legislation. He was desirous of making this property available to the Crown, and therefore had felt himself obliged to bring the subject before Parliament. ...  Leave given, and Bill brought in.
+```
+
+And started to make its way through the Parliamentary process.
+
+```{admonition} A Bill for Ascertaining the Boundaries of the Forest af Dean, CommonsSecond Reading, May 1830
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18300524/008/0001
 Morning Herald (London) - Monday 24 May 1830
 
 Dean Forest—Bill for ascertaining the Boundaries of the Forest af Dean, Gloucestershire, and for inquiring into the Rights and Privileges claimed by free Miners of the Hundred of St. Briavel's and for other purposes relating to the said Forest—to be read a second time.
+```
 
+After the second reading, the Committee stage:
+
+```{admonition} Dean Forest Bill, June 1830
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18300619/024/0004
+Monmouthshire Merlin - Saturday 19 June 1830
+
+HOUSE OF COMMONS. Friday, JUNE 11.—
+
+DEAN FOREST.
+
+The House went into a committee on the Dean Forest bill.
+
+*Mr. R. Gordon* moved that the clause relating to the boundaries be omitted, upon which the House divided, when the clause was lost by a majority of one.—The other clauses were then agreed to, and the report ordered to be received on Monday.
+
+```
+
+```{admonition} Dean Forest Bill, Committee stage, June 1830
 https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18300612/002/0003
 Morning Chronicle - Saturday 12 June 1830
 
@@ -141,22 +145,9 @@ Against it 29
 Majority 1
 
 The Bill, with its Amendments, was then passed through the Committee, the Report was brought up and ordered to be received on Monday next.
-
-
-```{admonition} Dean Forest Bill, June 1830
-:class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18300619/024/0004
-Monmouthshire Merlin - Saturday 19 June 1830
-
-HOUSE OF COMMONS. Friday, JUNE 11.—
-
-DEAN FOREST.
-
-The House went into a committee on the Dean Forest bill.
-
-*Mr. R. Gordon* moved that the clause relating to the boundaries be omitted, upon which the House divided, when the clause was lost by a majority of one.—The other clauses were then agreed to, and the report ordered to be received on Monday.
-
 ```
+
+According to a correspondent of th *Monmouthshire Merlin*, one of the problems of Forest law was that it was parochial and confusing.
 
 ```{admonition} Inconsistent Laws in the Forest of Dean, June 1830
 :class: dropdown
@@ -175,6 +166,10 @@ I have no doubt the magistrates, in their ultimate decision on this occasion, co
 
 ```
 
+However, the progress of the Bill appears to have stalled at this point, although it would reappear a year later, in June 1831, to  to start its Parliamentary journey over again.
+
+In a New Year's letter, at the start of 1831, against a background of the Swing Riots elsewhere in the country during the course of the previous year, one correspondent in particular felt moved to comment on the contrastingly peaceable nature of the Foresters.
+
 ```{admonition} All's Well in the Forest of Dean , January 1831
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310101/013/0002
@@ -189,68 +184,23 @@ I am, Mr. Editor, your most obedient servant, Forest of Dean, Dec. 29, 1830. ACO
 
 ```
 
+But that was all set to change.
+
 ## Levelling the Forest
 
-TO DO
+At the start of June, 1831, in Merthyr Tydvil, miners violently expressed their discontent at a reduction in their wages. A report in the *Globe* suggests that a similar form of disaffection had spread to the Forest.
 
-```{admonition} Riots in the Forest of Dean, June 1831
+```{admonition} One atrocity produces several, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18310616/002/0001
-North Devon Journal - Thursday 16 June 1831
-Riots in the Forest of Dean
+https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18310611/013/0002
+Globe - Saturday 11 June 1831
 
-"Monmouth, Friday Morning.
-
-"There is at present a strong popular excitement in the Forest of Dean. A great portion of the Forest was enclosed and planted with oak, under an Act passed in 48th of George III., which plantations are now in a thriving state. The act provides that 11,000 acres are always to be kept inclosed as a nursery for timber: and that the nursery can only be legally opened by order of the Lords of the Treasury,  and that only when the young timber shall be safe for the browsing of the cattle, sheep, and swine. An erroneous opinion, however, prevails among the foresters, that the inclosures should' be thrown open at the expiration of 21 years, and as the Act was passed in 1808 several of the enclosures are of a longer standing, and great dissatisfaction has been for some time felt at their continuance, and about a fortnight since a portion of the embankment was secretly destroyed. A large reward was offered for the discovery of the offenders, without effect, and hand bills were circulated, cautioning against the recurrence of similar outrages. On Wednesday morning a body of men, about eighty commenced levelling the embankments. In the course of the day their numbers increased to 500. On Thursday they continued the work of devastation, and their numbers increased to 2,000, parties being sent out in all directions to compel the colliers and other workmen to come and assist in opening the enclosures. Several miles of fences were levelled in these two days. The men worked regularly with suitable implements. Thev offered no injury to persons or private property, and were particularly careful of the young timber. There was no military force in the neighbourhood beyond a body of about 50 men, consisting of the staff of the Monmouth Militia and a recruiting party. This small body marched towards the forest on Friday morning. There is no political feeling mixed up with the question of supposed local rights. There are reformers and anti reformers both amongst the foresters, and amongst those who were using their best endeavours to check their proceedings. The accounts from Merthyr continue favourable. The men have returned to their work. Mr. Crawshay's family have returned home–a strong indication of the restoration of order. The number killed, as gathered from the best information, is stated at seventeen or eighteen, including those who have died of their wounds."
-
-Extract of a letter from Pontypool, Monmouthshire received in Shrewsbury yesterday by a tradesman, to whom are indebted tor the information it conveys:–
-
-"Pontypool, Tuesday Morning, Two o'Clock.
-
-"An old man has just come running in, sweating and breathless, to say that the rioters were at Nantyglo, nine miles from here. He had escaped from them. If they catch any that refuse to join them they cut off iheir ears. They are now two miles from here at Abersychan and much mischief is expected. They have threatened to pull down an iron master's house; and this town is all up in arms expecting the worst. It is said there are more than six thousand on their way here. The mob have taken several cannon, made a temporary battery, mounted tor regular siege; and built walls across the roads as high as a house. They are gathered from all quarters for a struggle."
-
-There may be some little exaggeration, arising from personal fear, in the above letter. His Majesty's Ministers have given directions to the troops and soldiers in the vicinity, to march to the spot; and have no doubt the affair will soon be ended. What can misguided combinations of workmen expect, but misery, poverty, and death, as the result of such combinations?–*Shreswbury Chronicle.* 
-
+We regret that it is our unpleasant task this evening to announce the extension of riot and disorder to the Forest of Dean and the neighbourhood of Pontypool. As respects the first instance, the letter of our correspondent gives an explicit statement of the source of dissatisfaction; and it is to be regretted that in times like the present, when misconception as to the extent of local rights is peculiarly mischievous, some public means of doing away with it should not be formally adopted before discontent leads to disturbance. The pioneers of society should not apathetically be allowed to fall victims to their own ignorance when a very little trouble might remove it.] As in the case of Merthyr Tydvil, the chief subject of alarm is the small number of military in the vicinity; and, no the other hand, the same satisfactory assurances are afforded of the absence of all political feelings in these disorders—one source of which, we fear,is the catching nature of the association which produces them. As in the case of Swing, one atrocity produces several; and men look around them for local subjects of complaint. This truth is evinced by a hurried extract from a Shrewsbury paper in relation to a disturbance near Pontypool; which, whether exaggerated, as the Paper believes, or not, appears to be attributable to that cause. We trust these petty but embarrassing, tumults will rapidly subside.
 ```
 
-```{admonition} The Dean Forest Rights and the impact of the railway, July 1831
-:class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310716/027/0004
-Monmouthshire Merlin - Saturday 16 July 1831
+However, several reports republished via the *Morning Chronicle* suggest a potentially different, and very local, rationale for the actions of the Forest miners.
 
-To the Editor of the Monmouthshire Merlin. SIR,—The "Rights" of the Dean Forest miners to work the coal mines were given them by King Edward the First, on their return from the siege and capture of Berwick, and about the same period in which he granted similar rights to the inhabitants of the Mendip Hills and the High Peak of Derby.
-
-"The Dean Forest Rights" are "That any person born in the hundred of St. Briavel's, who works a year and a day in the mines, becomes a free miner, and has a right to ask the gaveller to set him out a work on the spot he chooses, provided it is not before occupied."
-
-"That the King may send a sixth man to work for his benefit after the mine is opened, for doing which timber is to be allotted from the Forest."
-
-In practice, the right of the King's miner has been compromised for a small payment in money, and the railway acts prohibit the miners, who receive the timber, from using the railways, which has led to a discontinuance of the claim, and which would have been fully requited by the repeal of the Coast Tax on passing the Railway Act, and without any loss to the revenue.
-
-Where the shafts and levels for opening the mines are not deep, long, and expensive, the working miners generally execute them with their own funds but when they are deep as a 100 yards or more, and are expensive, strangers of capital usually buy the gales of the miners and if they did not, they would be useless for want of means to open them. The working of the mines is regulated by rules ordained in the Mine-law Court, which are printed.
-
-In consequence of the great distresses of the Forest in 1795 and in 1801, very similar to those prevailing now in Ireland, many persons, and they were strangers only, promoted the railroads at an immense expense, with the view of finding employment for the miners, and considerable benefit has arisen from them. The price of coal at Hereford, Ross, Gloucester, Cheltenham, and up the canals to Oxford and Reading, has been reduced a third but the non-repeal of the Coast Tax on the Severn, as was expected before for twenty years, and other designed injuries to the trade, have rendered both the railways and deep coal mines very injurious to their promoters, and in consequence the payments to the workmen have been much less than a good trade on the Severn would have afforded to the amount of many thousands a year.
-
-Of these railways, that to Monmouth was pressed with great earnestness (and Mr. Cockshoot, the engineer, who was sent for to review it, said that he had never seen half as much trouble taken with any thing), and was laid out and approved by the government as a continuance of the Lydney Road up Dark Hill, straight through Milk Wall Farm into Coleford town, and in the present course of the rail-road, from Staunton Lane on the backs of the houses, and to their great inconveniencé along the whole length of Coleford town into Monmouth, from which it would have been continued to Abergavenny, and there have met the Brecon Canal, the Blaenavon, Merthyr, and Pontypool Railways, and have rendered this rail-road the course of transit for all the merchandise which now goes down the Severn by Lydney circuitously into the countries connected with those great establishments, and would have supplied full work and employment for twice the ancient number of Forest coal carriers to Monmouth. This, however, has been prevented the railway is not continued from Dark Hill to Coleford, nor into Monmputh town, where little coal fit to burn is brought on the rail-road, when the very best coal might have been brought from the pits in Dark Hill, purchased on purpose.
-
-The poor Coleford carriers have lost the employment which formerly procured food for a hundred souls. The pasture land about Coleford, on which the horses were kept, is greatly reduced in price, and the improvement of the hundred of Skenfrith from Rockfield, upwards of five pounds an acre, and an abundant supply of fuel for the poor at a cheap rate, are entirely lost, as is also the greatest improvement which the towns of Coleford and Monmouth could possibly have received, as the daily communication through Lydney to the Bristol, the Berkeley, and the Stroud Canals, would have established an intercourse with Gloucester, Cheltenham, and the whole interior of the kingdom, and have brought the whole inhabitancy of the Forest to Coleford and Monmouth shops and markets.
-
-I have heard it frequently and gravely asserted, and I fully believe it, that the loss to Monmouth town by the non-completion of the rail-road, as first proposed, will in thirty-six years added to the eighteen years which have passed, amount to more than will buy the freehold of the whole town and it certainly has produced a loss in the rail-road shares of one half at their present price below par.
-
-How far you, sir, may be able to set the completion of this measure in motion I cannot say, but it is a melancholy thing for the public, as well as to the inhabitants of Coleford, to see so obvious a benefit destroyed.
-
-I trouble you with this note in consequence of your frequent allusions to the Forest Rights, and to state some of the causes of the melancholy events which have lately happened,—for hunger will break through stone walls. I am, sir, your humble servant, AN INJURED MINER. Coleford, 8th July, 1831.
-
-```
-
-```{admonition} Dragoons in Monmouth, JUne 1831
-:class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001644/18310625/012/0003
-Roscommon & Leitrim Gazette - Saturday 25 June 1831
-
-Half of the 3d Dragoon Guards are at Monmouth in the vicinity of the Forest of Dean, where disturbances have ceased. The rioters destroyed property amounting to 15,000*l*.
-```
-
-```{admonition} Tunultuous assemblages in the Forest of Dean, June 1831
+```{admonition} Tumultuous assemblages in the Forest of Dean, June 1831
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18310614/006/0002
 Morning Chronicle - Tuesday 14 June 1831
@@ -259,9 +209,9 @@ TUMULTUOUS ASSEMBLAGES IN THE FOREST OF DEAN, AND DESTRUCTION OF THE GOVERNMENT 
 
 [FROM THE MONMOUTHSHIRE MERLIN.]
 
-It has seldom, perhaps never, fallen to the lot of any provincial journalist to have to record, at the same time, two instances of alarming riot ill his own immediate neighboourhood. Such, however, is now our painful duty. Three or four months ago we inserted a letter, unIder the signature of "Acornpatch," in which, after explaining the condition of the people in the Forest of Dean, the writer emphatically says—'We are poor, poor, very poor; but We ale quiet, quiet, very quiet.' The character thus given of the foresters was at that period most strictly true. Although suffering the greatest distress and privations—although continually excited to acts of tumult and disorder by Swingites and Cobbetites without number, they remained firm in their allegiance to the King and to the laws, and never for a moment fell away from that feeling of patriotism, whose still smnall voice is ever whispering in the ears of an honest man, that it is better to endure every kind of misery and hardship in unstained loyalty, than to light the torch of discord, and be the cause of blioodsbed and desolation in the land of his birth. We feel persuaded that the foresters have always hitherto acted upon this principle, and that but for a delusion, into which they have been led by the artifices of designing men, we should not now have to relate occurrences, which seem for the first time to throw a shade upon their peaceableness and patriotism.
+It has seldom, perhaps never, fallen to the lot of any provincial journalist to have to record, at the same time, two instances of alarming riot in his own immediate neighboourhood. Such, however, is now our painful duty. Three or four months ago we inserted a letter, under the signature of "Acornpatch," in which, after explaining the condition of the people in the Forest of Dean, the writer emphatically says—'We are poor, poor, very poor; but we are quiet, quiet, very quiet.' The character thus given of the foresters was at that period most strictly true. Although suffering the greatest distress and privations—although continually excited to acts of tumult and disorder by Swingites and Cobbetites without number, they remained firm in their allegiance to the King and to the laws, and never for a moment fell away from that feeling of patriotism, whose still small voice is ever whispering in the ears of an honest man, that it is better to endure every kind of misery and hardship in unstained loyalty, than to light the torch of discord, and be the cause of blioodsbed and desolation in the land of his birth. We feel persuaded that the foresters have always hitherto acted upon this principle, and that but for a delusion, into which they have been led by the artifices of designing men, we should not now have to relate occurrences, which seem for the first time to throw a shade upon their peaceableness and patriotism.
 
-We shall commence by taking a review of the claim out of which their late tumultuous proceedings have originated. It appears that from time immemorial certain inhabitants of the Forest have exercised a right of common, of pasture, and of pannage through certain districts. By an Act of the 20th. of Charles II., c. 3, after reciting that the wood and timber (of the Crown, which of late years was of very great quantity and value within the Fo- rest of Dean, was become totally destroyed (except as therein is mentioned), whereby there was an apparent scarcity of timber there, as in all ather parts of the kingdom, so that some course was necessary to be speedily taken to restore and preserve the growth of timber for the future support of his Majesty's navy and the maintenance of shipping for the trade of the nation—it was enacted that 11,000 acres, statute measure, at 16 1/2 feet to the perch, of the said Forest, should he enclosed, and remain so enclosed until the Lord Treasurer, the Commissioners of the Treasury, or the Chancellor of the Exchequer shiould be satisfied that the trees growing on the said 11,000 acres were become past danger of the browsing of deer, cattle, or other prejudice, and shoulld think fit to lay open the same, or any part thereof, consisting of five hundred acres or more; and that in such case it should be lawful for his Majesty, in lieu of so much of the said eleven thousand acres as should be laid open, to inclose the like quantity out of any other part of the forest wastes. A clause in the same Act makes void any estate or interest in the forest lands which might be thereafter obtained by any person from the Crown. Another clause gives to the owners and occupiers of forest lands as a compensation in lieu of the right of common and of herbage, taken from them by the before mentioned enclosures, the privilege of cutting down and selling for their own use any timber growing upon their several lands; and also the privilege of improving, enclosing, fencing, and building on the said lands—of keeping dogs—and of hunting and killing beasts of chase and other game. The 11th section saves the liberties and privileges of all persons in and through the said forest at such times as the same should not be enclosed, and provides how the right of pannage and of common pasture should thereafter be enjoyed. An Act of the 48th Gen. III., c. 72, confirms the before-mentioned statute of Charles II. in all its essential particulars, and directs how persons, wilfully destroying any of the fences or enclosures, shall be punished. The third offence is made felony, and subjected to seven years' transportation, fine, or imprisonmnent, at the discretion of the Judge before whom the offenders may be tried.
+We shall commence by taking a review of the claim out of which their late tumultuous proceedings have originated. It appears that from time immemorial certain inhabitants of the Forest have exercised a right of common, of pasture, and of pannage through certain districts. By an Act of the 20th. of Charles II., c. 3, after reciting that the wood and timber (of the Crown, which of late years was of very great quantity and value within the Forest of Dean, was become totally destroyed (except as therein is mentioned), whereby there was an apparent scarcity of timber there, as in all ather parts of the kingdom, so that some course was necessary to be speedily taken to restore and preserve the growth of timber for the future support of his Majesty's navy and the maintenance of shipping for the trade of the nation—it was enacted that 11,000 acres, statute measure, at 16 1/2 feet to the perch, of the said Forest, should he enclosed, and remain so enclosed until the Lord Treasurer, the Commissioners of the Treasury, or the Chancellor of the Exchequer should be satisfied that the trees growing on the said 11,000 acres were become past danger of the browsing of deer, cattle, or other prejudice, and shoulld think fit to lay open the same, or any part thereof, consisting of five hundred acres or more; and that in such case it should be lawful for his Majesty, in lieu of so much of the said eleven thousand acres as should be laid open, to inclose the like quantity out of any other part of the forest wastes. A clause in the same Act makes void any estate or interest in the forest lands which might be thereafter obtained by any person from the Crown. Another clause gives to the owners and occupiers of forest lands as a compensation in lieu of the right of common and of herbage, taken from them by the before mentioned enclosures, the privilege of cutting down and selling for their own use any timber growing upon their several lands; and also the privilege of improving, enclosing, fencing, and building on the said lands—of keeping dogs—and of hunting and killing beasts of chase and other game. The 11th section saves the liberties and privileges of all persons in and through the said forest at such times as the same should not be enclosed, and provides how the right of pannage and of common pasture should thereafter be enjoyed. An Act of the 48th Gen. III., c. 72, confirms the before-mentioned statute of Charles II. in all its essential particulars, and directs how persons, wilfully destroying any of the fences or enclosures, shall be punished. The third offence is made felony, and subjected to seven years' transportation, fine, or imprisonmnent, at the discretion of the Judge before whom the offenders may be tried.
 
 In pursuance of the foregoing acts of Parliament, we understand that 11,000 acres have been regularly enclosed. Some evil genius lately suggested to the foresters that the enclosures were not legal, and that they would be justified in destroying them. The credulous foresters gave ear to the tempter, and immediately proceeded to act on his suggestion. On the night of Saturday, the 21st of May, part of the fence of an enclosure, called Oaken Hill, was thrown down, and the gates of that and other enclosures entirely demolished. A reward of fifty guineas having been offered by Mr. Machen for the discovery of the offenders, an old collier, named James, went, we are told, to that gentleman and claimed the reward by declaring that he and his three sons had done the mischief. Similar nightly acts of destruction were continued until Wednesday morning last, when several hundreds of the foresters assembled at an early hour, with the avowed purpose of levelling all the fences throughout the forest. The magistrates, hearing of their intentions, went out to meet them before they had commenced their illegal proceedings, and having in vain endeavoured to dissuade them from their purpose, read the Riot Act. There being no military on the spot, the foresters laughed at the proceeding, and began the work of ruin, in which they laboured with as much zeal and ardour as if their lives depended upon its speedy execution. This levelling system was continued during the whole of Wednesday and until Thursday night, by which time several miles of the inclosures were prostrated. On Wednesday one of the magistrates went to Merthyr for some soldiers. He returned by the mail on Thursday, with Major Mackworth, but none of the military could, it seems, be spared from Merthyr. Between six and seven o'clock yesterday morning, the Staff of the Militia, and a recruiting party of Marines stationed in Monmouth, together with the pensioners residing in the town and neighbourhood (the whole group not exceeding 34 in number), marched well armed for the scene of action.  Expectation is on the tip-toe to learn the result of their expedition, but no tidings have arrived. The foresters as yet have confined themselves to the destruction of the fences: their language up to this time being— "Do not molest us in our object, and we will not molest you. Bring the soldiers against us, and we will repel force with force—spill our blood, and yours shall be spilt."
 
@@ -285,9 +235,9 @@ Since writing the above, the militia staff, &c., have just received orders to be
 TO THE EDITOR OF THE GLOBE. Sir—As no doubt you have seen *The Monmouth Merlin*, with an account of the Proceedings in the forest of Dean, I hasten to inform you (as alarms are injurious at this period in particular), that the military who left this place on Friday morning returned yesterday afternoon, leaving the forest-the object of the foresters being accomplished-quite peaceable. It appears they had not the least disposition of hostility towards any one, their object being merely a destruction of the fences, *not the trees*, which inlose so great a part of the forest, supposing they have a right of commonage thereto. I am, Sir, your's, PACIFICUS, Monmouth, June 12.
 ```
 
-The *Evening Mail* of [Wednesday 15 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18310615/001/0001) also incuded the columns extracted from the *Monmouthshore Merlin* and the correspondent to the *Gloibe*, as well report of the apprehension of "the most desperate of the Merthyr rioters".
+The *Evening Mail* of [Wednesday 15 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18310615/001/0001) also incuded the columns extracted from the *Monmouthshore Merlin* and the correspondent to the *Gloibe*, as well as reporting on the apprehension of "the most desperate of the Merthyr rioters".
 
-```{admonition} Apprehension of "Lewis the hunstan", June 1831
+```{admonition} Apprehension of "Lewis the huntsman", June 1831
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18310615/001/0001
@@ -296,6 +246,32 @@ Evening Mail - Wednesday 15 June 1831
 APPREHENSION OF PENDERRIN.—A letter from Merthyr, dated Wednesday night, says—"Lewis, the huntsman," the most desperate of the Merthyr rioters, was apprehended on the 7th, in a wood, in the parish of Penderrin, Breconshire, where he had concealed himself. Information was immediately sent, by express, from M. Morgan, Esq., a Breconshire magistrate, to J. B. Bruce, Esq., at Penydarran, who immediately despatched a post-chaise to bring him to Merthyr. As the escort had to pass over the hills where some of the yeomanry had been disarmed, and through the Hirwain Iron Works, at night, Mr. Franklin, with the same gallantry which he has displayed through the whole of these riots, volunteered to go with a party of 12 of his troop, to escort the prisoner. Mr. Nicholl, of Merthyr-mawr (who had only arrived that evening from London), Mr. Lloyd Watkins, of Penneyre, Colonel Bush, and Mr. W. Crawshay, also accompanied the escort, and this sanguinary ruffian was brought in safety to the guard-house. Evan Thomas, Esq., of Sully (who has in the most handsome manner volunteered his services in assisting the magistrates of the hundred) sat with J. B. Bruce, Esq., and the Rev. George Thomas, and were occupied eight hours in getting through the examination of this prisoner alone. We are told there is no doubt of his full committal.—*Cambrian.*
 
 ```
+
+*That arrest, along with the Merhhyr uprising itself, is perhaps something that might form the basis of a story of its own...*
+
+The following report, from the *North Devon Journal*, from a correspondent in Monmouth, also reports on the recent events in the Forest of Dean, as well as some more colourful commentary about the goings on twenty miles or so away in Pontypool, half way between Monmouth and Merthyr.
+
+```{admonition} Riots in the Forest of Dean, June 1831
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18310616/002/0001
+North Devon Journal - Thursday 16 June 1831
+Riots in the Forest of Dean
+
+"Monmouth, Friday Morning.
+
+"There is at present a strong popular excitement in the Forest of Dean. A great portion of the Forest was enclosed and planted with oak, under an Act passed in 48th of George III., which plantations are now in a thriving state. The act provides that 11,000 acres are always to be kept inclosed as a nursery for timber: and that the nursery can only be legally opened by order of the Lords of the Treasury,  and that only when the young timber shall be safe for the browsing of the cattle, sheep, and swine. An erroneous opinion, however, prevails among the foresters, that the inclosures should' be thrown open at the expiration of 21 years, and as the Act was passed in 1808 several of the enclosures are of a longer standing, and great dissatisfaction has been for some time felt at their continuance, and about a fortnight since a portion of the embankment was secretly destroyed. A large reward was offered for the discovery of the offenders, without effect, and hand bills were circulated, cautioning against the recurrence of similar outrages. On Wednesday morning a body of men, about eighty commenced levelling the embankments. In the course of the day their numbers increased to 500. On Thursday they continued the work of devastation, and their numbers increased to 2,000, parties being sent out in all directions to compel the colliers and other workmen to come and assist in opening the enclosures. Several miles of fences were levelled in these two days. The men worked regularly with suitable implements. Thev offered no injury to persons or private property, and were particularly careful of the young timber. There was no military force in the neighbourhood beyond a body of about 50 men, consisting of the staff of the Monmouth Militia and a recruiting party. This small body marched towards the forest on Friday morning. There is no political feeling mixed up with the question of supposed local rights. There are reformers and anti reformers both amongst the foresters, and amongst those who were using their best endeavours to check their proceedings. The accounts from Merthyr continue favourable. The men have returned to their work. Mr. Crawshay's family have returned home–a strong indication of the restoration of order. The number killed, as gathered from the best information, is stated at seventeen or eighteen, including those who have died of their wounds."
+
+Extract of a letter from Pontypool, Monmouthshire received in Shrewsbury yesterday by a tradesman, to whom are indebted tor the information it conveys:–
+
+"Pontypool, Tuesday Morning, Two o'Clock.
+
+"An old man has just come running in, sweating and breathless, to say that the rioters were at Nantyglo, nine miles from here. He had escaped from them. If they catch any that refuse to join them they cut off iheir ears. They are now two miles from here at Abersychan and much mischief is expected. They have threatened to pull down an iron master's house; and this town is all up in arms expecting the worst. It is said there are more than six thousand on their way here. The mob have taken several cannon, made a temporary battery, mounted tor regular siege; and built walls across the roads as high as a house. They are gathered from all quarters for a struggle."
+
+There may be some little exaggeration, arising from personal fear, in the above letter. His Majesty's Ministers have given directions to the troops and soldiers in the vicinity, to march to the spot; and have no doubt the affair will soon be ended. What can misguided combinations of workmen expect, but misery, poverty, and death, as the result of such combinations?–*Shrewsbury Chronicle.* 
+
+```
+
+TO DO
 
 ```{admonition} A popular display of feeling at Parkend, June 1831
 :class: dropdown
@@ -359,6 +335,54 @@ The amount of damage is variously estimated; the extent of fencing destroyed is 
 The accounts from the Monmouthshirc hills are still favourable: the men are at their employ; there have been no assemblages to disturb the peace, and the imagination of the agitators is now almost exhausted in the invention of descriptive accounts of scenes which never existed but in the chimera of a vitiated brain.
 ```
 
+
+Perhaps another trigger for the Forest miners was concerns about what Parliament might do to the Forest. A bill to look at the Forest boundaries and commoners' rights had stalled after clearing the Commons a year before, but following the general election of April, 1831, the Bill was reintroduced just after midsummer's day and quickly had a second reading.
+
+```{admonition} Move to bring a in Bill, June 1831
+:class: dropdown
+https://api.parliament.uk/historic-hansard/commons/1831/jun/23/dean-forest
+DEAN FOREST.
+HC Deb 23 June 1831 vol 4 cc276-7276
+
+Lord Duncannon moved for leave to bring in a Bill to ascertain the boundaries of Dean Forest, and to inquire into the rights and privileges claimed by free miners, and other purposes.
+```
+
+```{admonition} Dean Forest Boundaries Bill, second reading, June 27
+:class: dropdown
+https://api.parliament.uk/historic-hansard/commons/1831/jun/27/dean-forest-boundaries-bill
+DEAN FOREST BOUNDARIES BILL.
+HC Deb 27 June 1831 vol 4 cc403-4403
+
+Lord Duncannon moved the second reading of the Dean Forest Boundaries Bill.
+
+Sir William Guise did not rise to offer any opposition to the Bill, but as some tumults which lately prevailed in that part of the country were connected with the attempt to settle the boundaries of the Forest, he thought this a fit time to make observations on the subject. He believed the people in the Forest had laboured under a great mistake as to their supposed rights. His hon. Colleague and himself had had interviews with the foresters, and he was sure his hon. Colleague would corroborate the statement he was about to make. It was well-known that formerly courts were held in this district, but they had been allowed for many years to fall into disuse. He believed it was owing to the want of these courts, in which their grievances might have been examined and redressed, that the rights of the people were not well understood, and that the disturbances had arisen. The people believed, that by these courts only could their claims be properly considered, and his hon. Colleague and himself had been instructed to endeavour to obtain their re-establishment. He was happy to add, the noble Lord at the head of the Woods and Forests had promised to take the subject into consideration, and he had no doubt his Majesty's Government would endeavour to effect what was most advantageous to the public. He thought it right to mention the subject, because a general opinion prevailed among the people, that their rights had been infringed.
+
+Mr. Moreton corroborated the statement of his hon. Colleague, and he had no doubt that the re-establishment of the courts alluded to would be attended with great advantage. As the attention of the noble Lord had been directed to the subject, he hoped some remedy would be devised for the evil.
+
+Lord Duncannon observed, that the re-establishment of the Courts would be attended with some difficulty, but the subject was under consideration.
+§Mr. Hunt said, he had heard a great deal of these riots, that the bounds had been levelled, and so forth, and he begged to ask whether any of the persons charged with these riots were in prison or whether they had been admitted to bail.
+
+Lord Duncannon said, he understood sonic of the rioters were in prison, but the greater number had been admitted to bail.
+
+Mr. Robert Gordon said, it was a singular fact, that this Bill had not been printed. It was quite unusual for a bill to go through a second reading without being printed. Its provisions might be all good and right, but many hon. Members must wish to see them.
+
+Lord Duncannon said, the Bill had gone through the House last Session when every Member had a copy of it. He could have no objection, however, to have it printed if it was thought desirable.
+
+Mr. Robert Gordon apprehended, that considerable alterations had been made in the Bill since that time. The very important clause relating to St. Briavels Court had been since introduced.
+
+Read a second time.
+```
+
+In the Forest, with half of the 3d Dragoons stationed in Monmouth, it seems the rioters in the Forest were continnuing in their destructive activity.
+
+```{admonition} Dragoons in Monmouth, June 1831
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0001644/18310625/012/0003
+Roscommon & Leitrim Gazette - Saturday 25 June 1831
+
+Half of the 3d Dragoon Guards are at Monmouth in the vicinity of the Forest of Dean, where disturbances have ceased. The rioters destroyed property amounting to 15,000*l*.
+```
+
 ```{admonition} A continued work of devastation, June 1831
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000063/18310628/012/0004
@@ -375,12 +399,158 @@ On Thursday, a man named Harris, alias Welchman, alias Poise-foot, another level
 We understand that a proposal was yesterday made to the magistrates, on the part of the levellers who were not assembled on Wednesday se'nnight when the riot act was read, and who did not make themselves conspicuous by pressing others into the illegal service, that they may be absolved from the penalties they have incurred on giving one week's work, in reparation of the mischief committed.—*Monmouthshire Merlin.*
 ```
 
+A correspondent to the *Monmouthshire Merlin* sought to set the rights of the Forest miners in context, and also present an argument regarding the effect of the railway on their situation.
 
-??
+```{admonition} The Dean Forest Rights and the impact of the railway, July 1831
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310716/027/0004
+Monmouthshire Merlin - Saturday 16 July 1831
+
+To the Editor of the Monmouthshire Merlin. SIR,—The "Rights" of the Dean Forest miners to work the coal mines were given them by King Edward the First, on their return from the siege and capture of Berwick, and about the same period in which he granted similar rights to the inhabitants of the Mendip Hills and the High Peak of Derby.
+
+"The Dean Forest Rights" are "That any person born in the hundred of St. Briavel's, who works a year and a day in the mines, becomes a free miner, and has a right to ask the gaveller to set him out a work on the spot he chooses, provided it is not before occupied."
+
+"That the King may send a sixth man to work for his benefit after the mine is opened, for doing which timber is to be allotted from the Forest."
+
+In practice, the right of the King's miner has been compromised for a small payment in money, and the railway acts prohibit the miners, who receive the timber, from using the railways, which has led to a discontinuance of the claim, and which would have been fully requited by the repeal of the Coast Tax on passing the Railway Act, and without any loss to the revenue.
+
+Where the shafts and levels for opening the mines are not deep, long, and expensive, the working miners generally execute them with their own funds but when they are deep as a 100 yards or more, and are expensive, strangers of capital usually buy the gales of the miners and if they did not, they would be useless for want of means to open them. The working of the mines is regulated by rules ordained in the Mine-law Court, which are printed.
+
+In consequence of the great distresses of the Forest in 1795 and in 1801, very similar to those prevailing now in Ireland, many persons, and they were strangers only, promoted the railroads at an immense expense, with the view of finding employment for the miners, and considerable benefit has arisen from them. The price of coal at Hereford, Ross, Gloucester, Cheltenham, and up the canals to Oxford and Reading, has been reduced a third but the non-repeal of the Coast Tax on the Severn, as was expected before for twenty years, and other designed injuries to the trade, have rendered both the railways and deep coal mines very injurious to their promoters, and in consequence the payments to the workmen have been much less than a good trade on the Severn would have afforded to the amount of many thousands a year.
+
+Of these railways, that to Monmouth was pressed with great earnestness (and Mr. Cockshoot, the engineer, who was sent for to review it, said that he had never seen half as much trouble taken with any thing), and was laid out and approved by the government as a continuance of the Lydney Road up Dark Hill, straight through Milk Wall Farm into Coleford town, and in the present course of the rail-road, from Staunton Lane on the backs of the houses, and to their great inconveniencé along the whole length of Coleford town into Monmouth, from which it would have been continued to Abergavenny, and there have met the Brecon Canal, the Blaenavon, Merthyr, and Pontypool Railways, and have rendered this rail-road the course of transit for all the merchandise which now goes down the Severn by Lydney circuitously into the countries connected with those great establishments, and would have supplied full work and employment for twice the ancient number of Forest coal carriers to Monmouth. This, however, has been prevented the railway is not continued from Dark Hill to Coleford, nor into Monmputh town, where little coal fit to burn is brought on the rail-road, when the very best coal might have been brought from the pits in Dark Hill, purchased on purpose.
+
+The poor Coleford carriers have lost the employment which formerly procured food for a hundred souls. The pasture land about Coleford, on which the horses were kept, is greatly reduced in price, and the improvement of the hundred of Skenfrith from Rockfield, upwards of five pounds an acre, and an abundant supply of fuel for the poor at a cheap rate, are entirely lost, as is also the greatest improvement which the towns of Coleford and Monmouth could possibly have received, as the daily communication through Lydney to the Bristol, the Berkeley, and the Stroud Canals, would have established an intercourse with Gloucester, Cheltenham, and the whole interior of the kingdom, and have brought the whole inhabitancy of the Forest to Coleford and Monmouth shops and markets.
+
+I have heard it frequently and gravely asserted, and I fully believe it, that the loss to Monmouth town by the non-completion of the rail-road, as first proposed, will in thirty-six years added to the eighteen years which have passed, amount to more than will buy the freehold of the whole town and it certainly has produced a loss in the rail-road shares of one half at their present price below par.
+
+How far you, sir, may be able to set the completion of this measure in motion I cannot say, but it is a melancholy thing for the public, as well as to the inhabitants of Coleford, to see so obvious a benefit destroyed.
+
+I trouble you with this note in consequence of your frequent allusions to the Forest Rights, and to state some of the causes of the melancholy events which have lately happened,—for hunger will break through stone walls. I am, sir, your humble servant, AN INJURED MINER. Coleford, 8th July, 1831.
+
+```
+
+In Westminster, the Forest of Dean Bill continued on its Parliamentary journey and was added to the statute book at the start of August.
+
+```{admonition} TO DO
+:class: dropdown
+
+TO DO
+
+The act 1 & 2 Will. 4. c. 12, sometimes called the Dean Forest Commission Act 1831
+https://archive.org/details/statutesunitedk00britgoog/page/18/mode/2up
+
+c12, p.18-25
+
+An Act for ascertaining the Boundaries of the Forest of Dean and for inquiring into the Rights and Privileges claimed by Free Miners of the Hundred of Saint Briavels and for other Purposes. [2d August 1831.]
+
+TIE^HEREAS the Boundaries of His Majesty's Forest of Dem
+
+* ^^ in the County of Gloucester ^ and of the Lands of His ^ Majesty's Subjects within the same, are in some Parts disputed,
+
+* and in other Parts not clearly ascertained and distingmshed ;
+
+* and Purprestures, Encroachments, and Trespasses to a great ' Extent have been made on the Soil of His Majesty within the
+
+* said Forest ; and certain Persons bom within the Hundred of
+
+< Saint JBriaveTSi within the Boundaries of the said Forest, calling
+
+* themselves Free Miners, claim certain Rights and Privilegea in
+
+* all Lands and Grounds lying within the Perambulation and
+
+< Regard of the said Forest and Lands adjoining thereto, other
+
+* than certain Inclosures for the Time they shall continue inclosed,
+
+* the Existence, Origin, and Particulars of which Rights and
+
+* Privileges have never been sufficiently inquired into by any ' Person or Persons having competent Powers to carry on sudb ^ Inquiry, and are not clearly ascertained and defined: And
+
+13 * whereas
+
+^ irhereas it is desirable that the Constitutioiiy Powers, Jurisdic-
+
+* taon, and Practice of a Court called the Mine Law Courtj and
+
+* also of a Court cfdled Saint Briane^M Ckmrtj and the Manage* ^ ment of the Prison belonging to the same Court, should be ^ inquired into and ascertained ; and it is also desirable that the ^ Expediency of erecting into a Parish or Parishes, or uniting to « some existing Pftrish or Parishes, the said Forest ofDetm^ and
+
+* the Lands lying within the Perambulation and Regard of the
+
+* said Forest, or such Parts thereof respectively as are extra' parochial, should be inauired into and ascertained:' Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority oi the same, That it shall be lawful for His Majesty His M^'ettj to issue or cause to be issued One or more Commission or Com- niay appoint missions, under the Great Seal o£ Great BrUamy or under the Seal Commiaiooert of His Majesty's Court of Exchequer at Weeimmsier^ and thereby ^^"^""7* to appoint Commissions for the Purposes of this Act, and to authorize and empower the said Commissioners so to be appointed,
+
+or any Two of them, to inquire of, ascertain, and distinguish, in manner herein-after mentioned, the Boundaries of the said Forest called The Forest of Dean^ and of the Lands of His Majesty's Subjects within the same ; and to inquire of the Purprestures, Encroachments, and Trespasses on the Soil of His Majesty within the Boundaries of the said Forest ; and also to inquire, in manner herein-after mentioned, of the Existence, Origin, and Particulars of the Rights and Privileges claimed by the Persons born within the Hundred of Saint BrtavePs aforesaid, calling themselves Free Miners ; and the said Commissioners, or any Two of them, shall and may and they are hereby authorized ana empowered to meet at such Time and at such Place within the said County of Ghueester as they or any Two of them shall appoint, and then and there, by the Testimony of Witnesses upon Oath (which Oath any One of the said Commissioners is hereby empowered to administer), and by the Inspection and Examination of Records, Deeds, and Writings, or by any other legal Proof or Evidence, to inauire of and ascertain the Boundaries of the said Forest, and or the Lands and Grounds belonging to His Majesty within the same, and the Boundaries between Lands belonging to His Majesty and Lands of any of His Majesty's Subjects ; and in like Manner to inquire of and examine all Claims or Titles that shall or may be made to any Lands, Tenements, or Hereditaments which shall be claimed on behalf of His Majesty as Purprestures, Encroachments, or Trespasses in or upon the Soil of His Majesty within the said Forest ; and also to receive and deliberate upon Offers and Proposals for compromising or settling any Disputes between His Majes^ and any other Person or Persons, touching the Boundaries of the said Forest, or of any Lands or Tenements claimed by any of His Majesty's Subjects within the same, or touching any Right, Title, or Interest claimed by any of His Majesty's Subjects to or in any such Lands or Tenements ; and also to carry on and prosecute all such other Inquiries as shall enable the said Commissioners from Time to Time to make Reports touching the Premises, in manner herein-after mentioned ;
+
+and in like Manner to inquire of the Origin of the RighU and Privileges claimed by the Persons calling themselves Free Miners as aforesaid, and to inquire what Qualifications, as to Birth, Occupation, or otherwise, are necessary to entitle any Person to such Rights and Privileges, and of the Nature and Particulars of the «aid Rights and Privileges as now exercised, and also over what Lands within the said Forest or elsewhere such Rights and Privileges extend or are exercised, and of the Variations (if any) in the Manner in which such Rights and Privileges have at different Times been exercised, and of any former Proceedings at Law or in Equity which in the Opinion of the said Commissioners shall tend to ascertain the said Rights and Privileges, and of all such other Matters and Things as in the Opinion of the said Commis.sioners shall enable them to make One or more Report or Reports touching the said Rights and Privileges, in manner hereinafter mentioned ; and in like Manner to inquire into the local Limits within which the Jurisdiction of the said Court called the Mine Law Court and also of the said Court called Saint BriaveTs Court respectively exist, the Nature of the Suits which it is competent for the said Courts respectively to entertain, and the Nature and Number of the Suits which are usually brought in the said Courts, the Process by which the Orders and Decrees of the said respective Courts are enforced, the Expence of Proceedings in the said Courts, also into dl other Matters and Things necessary for ascertaining the Constitution, Powers, Jurisdiction, and Practice of the said respective Courts ; and in like Manner to inquire .into the Condition, as to Repairs or otherwise, of the Prison belonging to the said Court called Saint BriaveTs Court, and the Treatment of and Provision for Persons confined in the same Prison, and the general Management and Conduct thereof; and in like Manner to inquire into the Expediency of erecting and forming into One or more Parish or Parishes, or uniting to or consolidating with .any adjoining or other existing Parish or Parishes, the said Forest of Dean^ and the Lands lying within the Perambulation and Regard of the said Forest, or such Parts of the said Forest and Lands respectively as are extra-parochial* Treasury may IL And be it further enacted, That it shall be lawful for the order 500/. to Lord High Treasurer or the Commissioners of His Majesty's ^S^ C^n^- Treasury of the United Kingdom oi Great Britain and Ireland^ or sioners for exe^ ^"7 Th^'^e or more of them, to order and direct such Sum or cuting this Act, Sums of Money as they in their Discretion may tliink fit to be aud soo/. for issued and paid out of the Woods and Forests Revenues to any £xp«»^> ^"^ ^^^ ^^ ^^ Commissioners appointed to carry this Act into exe**^?Fw^bf* cution, as a Remuneration for his Services therein, provided such Revenues. Sums shall not exceed Five hundred Pounds in any One Year,
+
+and of any additional Sum or Sums of Money to defray the Expences incurred by the said Commissioners in the Execution of this Act, such Sum not exceeding Three hundred Pounds, to be paid out of the Woods and Forests Revenues: Provided always, that no more than One of the Commissioners to be appointed under this Act shall receive any Pay or Remuneration for his Trouble in carrying the Provisions of this Act into effect. Commissioners ' III. And be it further enacted. That the said Commissioners to take an Oath, before they shall be capable of acting in the Execution of this
+
+Act
+
+Act shall severally take and subscribe an Oath before a Justice of the Peace for the County of GUmeester^ or before One of the jBaid Commissioners (having first taken the said Oath), to the Effect following ; that is to say,
+
+* T ^ ^. do swear, That I will faithfully, impartially, and honestly, ' according to the best of my Skill and Judgment, execute the
+
+' several Powers reposed in me by an Act of the Second Year ' of the Reign of His Majesty King William the Fourth, intituled
+
+* An Ad far ascertaining the ^boundaries of the Forest of Dean, and ' for inquiring into the Rights and Privileges claimed by Free Miners ^ of the Hundred ^ Saint Briavel's, and for other Purposes^ accord' ing to the Tenor and Purport of the said Act.
+
+< So help me GOD/
+
+IV. And be it further enacted, That it shall be lawful for the CommiarioiMn said Commissioners to call before them, at one of their Public i°«7 ^^ P^rMeetings, any Person (including any Judge, Steward, or Officer p™,*** *^^® of the said Court called Samt BriaveTs Cmtrt, and anv Gaoler or Z^^^^ other Officer of the said Prison,) either to give Evidence or to cordi, &e. produce any Records of the said Court, or any other Records or
+
+other Documents in his Possession or Custody, not relating to his private Estate, or to the private Estate of any other Person or Persons, and which the said Commissioners shall think necessary or proper to be examined for the Purposes of any of the Inquiries directed by this Act or by the said Commission or Commissions ; and any Person (being duly summoned) refusing or omitting to appear or to give Evidence, or to produce such Records or Documents, without reasonable Excuse for such Refusal or Omission, shall forfeit any Sum not exceeding Ten Pounds nor less than Forty Shillings, to be recovered and applied in manner hereinafter mentioned.
+
+V. And, to the Intent that no Person may have any juft Cause PuUie Notice or Pretence for not appearing before the said Commissioners at to be gWen of their Meetings to be held for the Purpose of carrying this Act Commurioners into execution, be it further enacted, That the said Commis- ^^^^^^' sioners shall give public Notice of the Time and Place of every
+
+intended Meeting, by Publication of such Notice Fourteen Days at least before such Meeting in the London Gazette and in One of the Public Newspapers published in the said County of GloU' eesteTy when and where any Person having any Rights or Claims within the said Forest may be at liberty to lay the same before the said Commissioners : F^ovided always, that the said Commissioners, or any One of them, shall and may from Time to Time adjourn their Meeting to any future Day, and to any Place within Che Counties of Gloucester^ Hereford, or Monmouth, without giving any public Notice thereof in any Newspaper : Provided always, that every Place of Meeting shall be withm Twelve Miles of die Boundary of the Forest of Dean,
+
+VL And be it further enacted, That any Two of the said Com- Meetings may missioners so to be appointed as aforesaid shall have full Power be appointed by and Authority to appoint and hold Meetings for the Purpose of *"/ 7"^^ ^™~ carrjring this Act into execution ; and that at all Meetings of the '^*"'®""'said Commissioners under the Authority of this Act, or the said
+
+C 3 Com
+
+Commission or Commisaions, the major Part of the Comnfisdoners then present shall have full Power and Authority to do, exercise^ and perform all such Acts* Powers, and Authorities, Matters, and Things, as in and by this Act, or the said Commission or Commissions to be issued m pursuance thereof, are or shall be directed, authorized, or empowered to be done, exercised, or performed by the said Commissioners*
+
+VII. And be it further enacted, That the said Commissioners, acting under the said Commission shall be and they are hereby required to cause all their Inauiries, Examinations, and Proceedings under this Act to be fairly entered in Books to be kept for that Purpose, one Book or Set of Books being appropriated to the Inquiries, Examinations, and Proceedings relating to the Rights ana Privileges claimed by the Persons calling themselves Free Miners as aforesaid, and another Book or Set of Books being appropriated to the other Inquiries, Examinations, and Proceed* ings under this Act; all which Books, duly signed and certified by the said Commissioners or any Two of them, shall be returned into the 0£Sce of the Commissioners of His Majesty's Woods, Forests, and Liand Revenues, there to remain and be kept.
+
+VIII. And be it further enacted. That all pecuniary Penalties and Fines imposed by this Act shall and may be recovered in a summary Way before any Justice or Justices of the Peace for the County of Gloucester, or for any County, Riding, Division, or Place in which the Person having incurred the same shall happen to be ; and in case any Penalty or Fine recovered before any Justice or Justices of the Peace in pursuance of this Act shall not be paid forthwith, it shall be lawful for the Justice or Justices by whom such Fine shall be set or imposed, or before whom such Penalty shall be recovered, by Warrant under his Hand and Seal or their Hands and Seals, and directed by such Justice or Justices to any Constable or other Peace Officer, to cause such Fine or Penalty to be levied by Distress and Sale of the Offender's Goods and Chattels, together with all Costs and Charges attending such Distress and Sale ; and in case no sufficient Distress can be had or made, such Justice or Justices shall, if he or they shall think proper, commit the Offender to the Common Gaol for or some House of Correction within the said County of Ghucestety or for such other County, Riding, Division, City, Town, or Place as aforesaid, there to remain without Bail or Mainprize for any Space not exceeding Two Calendar Months.
+
+IX. And be it further enacted. That if any Action or Suit shall be brought or commenced aeainst any Person or Persons, for any thing by him, her, or them done or executed in pursuance of this Act, or for any Cause, Matter, or Thing herein contained, such Action or Suit shall be commenced within Three Calendar Months next after the Matter or Thing done, and shall be laid in the proper County, and the Defendant or Defendants in such Action may plead the General Issue, and give the Special Matter in Evidence, for his or their Defence ; and if upon Trial a Verdict shall pass for the Defendant or Defendants, or the Plaintiff or Plaintiffs become nonsuited, or discontinue his, her, or their Action or Prosecution, or Judgment shall be given against him,
+
+her, or them upon Demurrer or otherwise) then mich Defendant or Defendants shall hare Treble Costs awarded to him or them against such Plaintiff or Plaintifis.
+
+X. And be it further enacted, That all Penalties recovered and Application of all Fines imposed by virtue or in pursuance of this Act shall be, by Penalties. the Justice or Justices receiving the same, forthwith paid over or transmitted to the Under Steward of the said Forest of Dean, to
+
+be applied in defraying the Expences attending the Execution of this Act or anv other Laws concerning the said Forest.
+
+XI. And be it further enacted, That it shall and may be lawful CcnDmiMioDen for the said Commissioners, or any Two of them, and they are *° import to the hereby required, from Time to Time and in such Manner and '^^^^^ Form as shall be in that Behalf specified in any such Commission Bounces of or Commissions as aforesaid, to report to the Lord High Treasurer the Forest, the or the Lords Commissioners of His Majesty's Treasury the several Rights Boundaries of the said Forest, and of the Lands of His Majesty's claimed therein. Subjects within the same, so far as the said Commissioners shall "^^ ^^^ ^^*^ be able to ascertain the same; and also to report what Rights and thCTeto. °^ Interests the Persons occupying or claiming to be interested in
+
+Lands or Tenements within the Bounds of the said Forest have or claim therein, and the Origin or alleged Origin of such Rights and Interests, whether by Grant, Custom, or otherwise, in all Cases in which it shall not clearly appear to the said Commissioners that a good Title to such Rights and Interests can be established against the Crown, including in such Report the Particulars of the Rights and Interests of Persons claiming to be Owners of or to have a Right to open or work Quarries, and the Origin, whether by Grant, Custom, or otherwise, of such lastmentioned Rights and Interests (save and except as to the Rights and Privileges claimed by the Persons calling themselves Free Miners as uoresaid, which Rights and Privileges are to be made the Subject of One or more .'separate Report or Reports, as herein-after mentioned); and also to report Uie Dates, Value, and other Particulars of all other Purprestures, Encroachments, and Trespasses in and upon the Soil of His Majesty within the said Forest, in all Cases in which it shall not clearly appear to the said Commissioners that a good Title can be established against the Crown; and also to report such Proposals as the said Commissioners shall think it expedient to state, from Persons claiming against His Majesty, for compromising Disputes relating to ^undaries, or lor the Disposition or Application of Timber or other Trees or Wood, and to state the Opinion of the said Commissioners as to the Expediency of accepting any such Proposals as aforesaid; and also to report all such other Matters relating to the Property of the Crown in the said Forest, or any Disputes relating thereto, as in carrying on the Inquiries directed by this Act it shall seem to the said Commissioners expedient to state, and also the Opinion of the said Commissioners as to the best Manner of settling such Disputes; and also to report the local Limits within which the Jurisdiction of the said Court called the Mine Law Court and also of the said Court called Saint Briavel's Court respectively exist, the Nature of the Suits which it is competent for the said Courts respectively to entertain, the Nature and Number of the Suits which are usually brought in the said Courts, the
+
+Process by Which the Orders and Decrees of the said respective Courts are enforced, the Expence of Proceedings in the said Courts, and all other Matters and Tilings necessary for showing the Constitution, Powers, Jurisdiction, and Practice of the said Courts respectively ; and also to report the Condition, as to Repairs and otherwise, of the Prison belonging to the said Court called Saint Briavels Court, and the Treatment of and Provision for Persons confined in the same Prison, and the general Management and Conduct of the said Prison; and also to report the Opinion of the said Commissioners on the Expediency of erecting and forming into One or more Parish or Parishes, or uniting to and consolidating with any adjoining or other existing Parish or Parishes, the said Forest of Dean, and the Lands lying within the Perambulation and Regard of the said Forest, or such Parts of the said Forest and Lands respectively as are extra-parochial; and also to state the Reasons of the Opinion of the said Commissioners; and also to report all such other Matters relating to the Premises as in any such Commission or Commissions to be issued as aforesaid shall be in that Behalf directed.
+
+DONE 
+
+XII. And be it further enacted, That it shall and may be lawful for the said Commissioners, or any Two of them, and they are hereby required, at such Time or Times and in such Manner and Form as in any such Commission or Commissions shall be specified, to report to the Lord High Treasurer or Lords Commissioners of His Majesty's Treasury the Opinion of the said Commissioners touching the Origin of the Rights and Privileges claimed by the said Persons calling themselves Free Miners as aforesaid, and touching the Qualifications, as to Birth, Occupation, or otherwise, necessary to entitle any Person to such Rights and Privileges; and also to report what the Nature and Particulars of the said Rights and Privileges are as now exercised, and over what Lands within the said Forest or elsewhere such Rights and Privileges extend or are now exercised, and of the Variations (if any) in the Manner in which the said Rights and Privileges have at different Times been exercised, and also of such Particulars of any former Proceedings at Law or in Equity as in the Opinion of the said Commissioners shall tend to ascertain the said Rights and Privileges; and also to report the Opinion of the said Commissioners whether any such Rights and Privileges legally exist, and whether the Manner in which the said Rights and Privileges are now exercised be warranted by Law, and whether any Rights and Privileges which legally exist are abused, or are made the Cover for illegal Practices, and in what Particular (if any) the present Exercise of the said Rights and Privileges departs from, exceeds, or is inconsistent with the Exercise of the said Rights and Privileges as warranted by Law; and also to report the Opinion of the said Commissioners as to the Steps proper to be taken for settling the Claims of the Persons calling themselves Free Miners; and also to report all such other Matters relating to the Prenuses as shall be in that Behalf directed by the said Commission or Commissions.
+
+XII. And be it further enacted, That in case any of the said Commissioners so to be appointed as aforesaid, or any future Commissioner or Commissioners appointed as herein-after mentioned, shall die or be removed before the Duties of the Commissioners shall be fully performed, then and so often as the same shall happen it shall be lawful for His Majesty to issue or cause to be issued, under the Great Seal of *Great Britain*, or under the Seal of His Majesty's Court of Exchequer at *Westminster*, One or more Commission or Commissions, and thereby to appoint any other Person or Persons to be a Commissioner or Commissioners in the Place of the Commissioner or Commissioners who shall have died, become incapable, or been removed; and that the surviving or continuing Commissioner or Commissioners (if any), and the Commissioner or Commissioners appointed as last aforesaid, or any Two of them, shall proceed in the Discharge of the Duties imposed by this Act on the Commissioners to be first appointed under the Provisions herein-before contained, in the same Manner and with the same Powers and Authorities in all respects as such Commissioners or any Two of them might have done in case such Death becoming incapable, or Removal, had not taken place.
+
+XIV. And be it further enacted, That the several Reports to be Reports to be made by the said Commissioners under the Authority of this Act shall be made within Two Years from the passing of this Act.
+
+XV. And be it further enacted, That this Act shall be deemed and taken to be a Public Act, and shall be judicially taken notice of as such by all Judges, Justices, and others, without being specially pleaded.
+
+```
+
+```{admonition} Read a third time, and passed, July 1831
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18310722/018/0003
 London Evening Standard - Friday 22 July 1831
 
 Several bills were forwarded a stage, and others read a third time and passed; amongst which were ... the Dean Forest Bill.
+```
+
+Meanwhile, back in the Forest, and Warren James, leader of the Forest minrers' revolt, stood trial.
 
 ```{admonition} Forest of Dean Riots — Trial, August 1831
 :class: dropdown
@@ -426,6 +596,18 @@ The Merthyr Rioters.—*Richard Lewis*, one of the Merthyr rioters, was executed
 
 ```
 
+
+
+
+---
+https://www.british-history.ac.uk/vch/glos/vol5/pp354-377
+Forest of Dean: Forest administration
+A History of the County of Gloucester: Volume 5, Bledisloe Hundred, St. Briavels Hundred, the Forest of Dean.
+
+stalled? finally 1831
+
+
+
 https://www.legislation.gov.uk/ukpga/Geo3/59/86/contents/enacted
 
 https://en.wikipedia.org/wiki/Dean_Forest_Act_1667
@@ -448,16 +630,187 @@ https://forest-of-dean.net/downloads/Stories_Articles/index.php?path=Riots+in+th
 https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Warren_James_Free_Miners_Notice_transcript.pdf
 
 
-https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_1.pdf
+https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_1.pdf Gloucester Journal 11 June 1831
 
-https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_2.pdf
+Riots in the Forest of Dean
 
+With great regret we state, that since the morning of Wednesday last the Forest of Dean has been the scene of very riotous and lawless conduct, and up to the date of the last acounts no move to more orderly behaviour was apparent. Although as yet no personal outrage has been continued, the destruction of fences has been effected to
+an immense extent, and it is impossible at this moment to say where or when the mischief may end. The facts of the case lie in a very small campass. The Foresters have begun to destroy the enclosures of the Forest and intend to break down all that have stood for twenty one years, and they further propose to pull up the Monmouth Rail road and as yet not the slightest hesitance has been apparent in them. In conclusion of the above brief statement we are indebted to the kindness
+of a friend upon the spot for the following particulars.
 
-https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_3.pdf
+It seems that for two or three days previous to Wednesday handbills had been distributed and planted amongst the colliers announcing that on the 7th a general meeting of the foresters would be held for the purpose of "opening the Forest" and impounding the cattle of trespassers. Accordingly on Wednesday morning headed by a man named Warren James, a very large number of miners and others commenced pulling down the fences of the enclosure near Parkend. The Magistrate had early information of the assemblage, and proceeded to the spot, but the rioters commenced their work of devastation without heeding their presence or the summons to disperse or the reading of the riot act. They were very civil in their deportment but resolute in their purpose, simply desiring the Magistrate to stand out of their way. The Magistrates persevered in their duty, but the overwhelming numbers of the rioters rendered all idea of using force in the prevention ridiculous. A warrant to apprehend the leader was in the hands of the constables, but it would have been worse than madness to have attempted to execute it. The rioters committed no other outrage either in language or deed, than that of destroying the enclosures. Our information tells us that the fences in some places disappeared like magic, numbers of men leaning at once against the stone walls and forcing them down by main strength to as much as twenty yards at a time. Before night the work of destruction was carried on to the extent of several miles. On separating for the evening the rioters declared their intention of pursuing their object on the following day. Of the subsequent proceedings and the motives which has led to them, we subjoin the particulars with which we have been favoured:
 
-https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_4.pdf
+"Dean Forest Thursday
 
-https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_5.pdf
+The work of destruction still continues. The depredations committed on the boundaries of the Forest inclosures this day are of a more extensive and destructive nature than those alluded to yesterday. The original rioters having been joined by many of the workmen belonging to the surrounding collieries formed themselves into gangs in order to make their lamentable devastations as wide wasting as possible. More than two thirds of the enclosures are now either levelled with the ground, or so full of gaps as to be no longer safeguards for the infant timber which they were intended to nurse and protect.
+
+It is really heart breaking to see this work of mischief in which are involved the interests of other generations proceeding without the shadow of interference or the presence of any force civil or military, to attempt at least to crush those
+outrages in their commencement, and it is equally fearful to contemplate the
+consequences that must soon follow, unless means are immediately obtained to bring these deluded men to a sense of their duty. The war word as usual is a
+restitution of rights which the Foresters complain have been wrested from them
+by the Crown and materially interfered with by the introduction of persons whom they consider foreign to the soil. The real cause of the evil is a want of labour and of sufficient wages so as to enable a man to live and procure for himself and family the necessaries of life to which may be added the abuses of the Tommy shop system which has of late become very prevalent in the Forest of Dean.
+
+A further communication says "The *alleged* origin of the present disturbances in the Forest of Dean is the belief entertained by the miners and coliers that the enclosures for protecting the young timber have been made too extensive and have been kept closed too long. By the terms of the act of the 111 George 3d it would appear that the Commissioners are empowered to throw open the enclosures so
+soon as the trees shall have acquired sufficient growth to be protected from the browsing of cattle &c. The miners say that when Lord Lowther was the Chief
+Commissioner, the Foresters had applied to him for the throwing open of the
+Forest and he was disposed to listen to their application, that the Duke of Wellington had appointed ....... him in the Forest for the purpose of inspecting the state and condition of the trees. The death of the late King and the consequence dissolution of the Parliament and breaking up of Wellingtons Administration prevented any further proceeding. It is said that since that time the Foresters have memorialised the present Commissioners of Woods and Forests on the subject but without success. At the time that they were in negotiation with the late Ministry, a large subscription was made among them for the purpose of obtaining an Act for the opening of the enclosures, and it is certain that this fund has been subscribed to by all the poorer clases in the neighbourhood of the Forest. Under the persuasion that they have been unfairly dealt with and instigated by persons who tell them that they have both the Crown and the law on their side, they have taken the work of redress of their real or supposed grievances into their own hands. They add that they are satisfied that the Crown agrees with them in opinion because they gave formal notice of their intention to lay the Forest open some days ago: and contend that if the Government had been adverse to their
+proceedings they would have esnt down the military to stop them.
+
+Such is the outline of what they plead in their justification. While Mr Machen was
+reading the riot act yesterday to them some among the crowd replied by reading
+the odl act of the 20th Charles II by which it was settled that the Foresters should have one half of the Forest and no more than the other half should ever be
+enclosed. They have been at work all to day as wel as yesterday and declare that they will not cease until they have destroyed all the enclosures that have stood as long as 21 years. Several gentlemen have been among them today and for many
+hours reasoning with them and endeavouring to point out the illegality and consequences of their conduct. They behaved very civily to them but declared
+their intention to proceed upon reasons similar to those stated before. They
+declare that they will not injure any person or property of any sort, but declarations of this kind are more easily made than adhered to. For example some of them have puled down the garden wall of Mr Goold and threaten to pull down his house. Another party seeing one of the woodwards with pencil and paper noting down the names of the leaders threatened to put him down a coal pit if he did not desist. Others warned one of the bailiffs not to show himself, on pain of a similar penalty. Still altogether they have behaved very temperately, except in the act of destroying the enclosures.
+
+No effectual means of resistance have been or perhaps could be applied. The Magistrates have met but what they have done remains to be seen by the event
+and word the matter as you will; law is for the present at an end in the Forest and property is at the mercy of the people. They have announced their intention of
+pulling up the rail road to Monmouth and when once this work is begun it is
+impossible to say where it will stop, because through one party and the majority
+perhaps consider this rail road as the only  one that is prejudicial to them, yet it is certain that many of the halliers look upon all with an evil eye.
+
+Another evil consequence is the ceasation of work as the rioters have in most instances refused to allow those who where disposed to work at the coal pits as usual to do so. The men have in consequence been obliged to go home or what is
+just as likely been induced to aid in destroying the fences.
+
+The most ridiculous reports are as usual current in respecting the instigation of
+these riots. It is said that they are persons of wealth and rank and parliamentary influence such nonsense is scarcely worth repeating. The only known leader is
+Warren James whose name was affixed to the hand bill inviting the Foresters to meet to lay open the Forest. This individual maintains most confidently that the *law* and the Government justify all his proceedings as well as those of the colliers. Others disclaim this man's authority. yesterday however on Mr Machen's endeavouring to reason with him the crowd interfered and would not suffer them to confer and then compelled Mr Machen to quit the spot.
+
+https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_2.pdf Gloucester Journal 18 June 1831 
+
+GLOUCESTER JOURNAL 18TH JUNE 1831 Riots in the Forest of Dean
+
+We have great satisfaction in stating that the proceedings which have lately disturbed the tranquillity of the Forest, have at length been effectively stopped though unfortunately not until the mischief originally contemplated by the misguided men who have been active in the disgraceful scenes has been almost wholly accomplished. Until Saturday evening the rioters were fully and uninterruptedly employed in their work of destruction, and we are informed that fences and embankments in the extent of nearly fifty miles were either completely levelled or rendered perfectly useless. On Sunday however a military force arrived at Coleford and on the folowing day the Duke of Beaufort, the Marquis of Worcester, the High Sheriff of the county and a numerous body of Magistrates and influential gentlemen asembled together and such energetic means were adopted in vindication of the laws was secured at once to bring the Foresters to a proper sense of the delusions under which they had been led astray. On the approach of the military the rioters fled in all directions and we understand that offers of surrender were made provided bail would be accepted for the offenders. This proposal however was ........ properly rejected and uncompromising means were taken for securing the persons of the ringleaders. In the course of Monday and Tuesday several prisoners were taken and amongst them Warren James the active leader of the rioters. This man with another named Thomas Birt have been fuly committed and safely conveyed to our county gaol and will be tried at our next Assizes. Several other persons who had not made themselves equally prominent were submitted to bail. Under such circumstances and as good order is now happily re-established we abstain from making any lengthened comment, but having referred to the Acts of Parliament under which the Forest inclosures were made we would wish carefully to impress upon the minds of the inhabitants of that populous district a class of men hitherto particularly conspicuous for their orderly, honest and industrious habits, that those legislative enactments contain nothing which can at all justify the violent measures which have unfortunately been recently adopted. Upon this subject more minute particulars will be obtained from the subjoined communication from our valued correspondent upon the spot.
+
+Forest of Dean June 15th 1831
+
+The very sily and destructive proceedings of the miners and colliers have at length been completely checked by the arrival in the Forest of a military force of an effective nature. A detachment of the Third Dragoon Guards rode into Coleford on Sunday, which on Monday morning was made the rendezvous of the Magistrates of the district in considerable numbers which meeting was also attended by the Duke of Beaufort Lord Lieutenant of the County and the Marquis of Worcester. It is said that the Foresters proposed to surrender their ringleaders to take their trials, if they might be admitted to bail but this proposal was of course rejected. It was then hinted that the most desperate resistance would be made, but the Magistrates very properly disregarded these menaces and the military under their orders went out in different directions. But long before their arrival at the spot where the depredations had been continued the ground was completely cleared the rioters having fled in all directions. The services of the military were therefore necessarily confined to the apprehension of a few of the known ringleaders some of whom were taken on Monday, and brought into Coleford. Warren James himself was caught yesterday evening, he had taken refuge in a coal pit near Bream, but he was betrayed by his own followers. He was tricked out of his hiding place by the allowable cunning of the officers who accompanied the detachment and was immediately secured. He was brought to Coleford without the slightest attempt at resistance on the part of anyone, and examined this day and ultimately sent off to Gloucester.
+
+The damage which has been done will it is supposed occasion an expense of 13,000*l*. to repair exclusive of the injury which may be done to the young timber, the Magistrates have however given notice that the Forest will according to ancient custom be driven next 20th June when the fence-month will begin so that the Foresters will find that their seal for the restoration of their ancient privileges has led inevitably to the deprivation of many licences which they have enjoyed. They now affect to say that they have been deceived by Warren James in his assurance that the King and the Duke of Beaufort and other great personages warrant their opening of the Forest. It is unnecessary to say that the personages implicated had not the slightest difficulty in showing the utter falsehood and absurdity of the charges. Any further observations relaitve to those in custody would of course be improper. Perhaps however it may be permitted to express a wish that while punishment is inflicted on the instigators of tumult an examination may take place into the privileges of the Foresters and that such as they have gradually and perhaps unintentionally been deprived of may be restored to them, and persons appointed in their behalf to protect them from similar encroachments in future. The restitution of the Forest and Mine courts is what the
+miners themselves desire which has now been discontinued many years. The Forest is now in the usual state of tranquillity although detachments of soldiers are occasionally sent out to take persons owh aer pointed out as ringleaders. No injury has been done to the railroads and the rioters now assert that none was ever intended.
+
+https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_3.pdf Gloucester Journal 25 June 1831: Forest of Dean
+Transcribed by Terry James from the Gloucester Journal 1831
+
+GLOUCESTER JOURNAL 25TH JUNE 1831
+
+Forest of Dean
+
+Beyond the gratifying fact that tranquillity has been restored in this district we have little information to communicate except what is contained in the subjoined letter from our intelligent correspondent.
+
+Forest of Dean June 23rd 1831
+
+There is nothing of any peculiar interest now to mention respecting the recent
+disturbances in the Forest of Dean. The spirit of outrage is completely quelled and the principle leaders have either been apprehended or are skulking among the coal pits and forests in the greatest state of alarm. The fair at Coleford on Monday was the worst ever known, a circumstance attributed to its having been generally reported that during its continuance sundry desperate cast were to have taken place which frightened away no inconsiderable number of the usual attendants on fairs. Not the slightest disorder however occurred beyond the usual and irreparable concomitants of fairs. The apprehension of pickpockets and a fight or two at night nor does there appear to be any foundation for the idea that any tumult was ever intended. The Foresters now assert that they are indignant with Warren James for having misled them into a false notion of their rights. Any further remarks upon a person now in custody would be indecent but it may be permitted to observe upon the extreme ignorance of the poor Foresters which leads to their excessive gullibility. They levied large sums amongst themselves to support James in his alleged endeavours to procure the legal restitution of their rights without taking any care to provide for its proper application and it is now pretty well known as a fact that they are subscribing with pretty nearly equal liberality afford funds to an individual of whom they know nothing how srefof to defend the persons now in Gloucester *gratuitously*.
+
+Many of those who had been concerned in the destruction of the fences thoroughly sensible of their error had applied for leave to work at the reparation of the damage which they had done by way of atonement which offers had been accepted by the Magistrates. Two commissioners appointed by the Board of Woods and Forests have annulled all these agreements and it is said, intend proceeding with great severity against the culprits and to make severe examples. The justice and the policy of such proceedings are perhaps questionable. Highly culpable as the Foresters have been they were completely misled by a false notion of their rights and they were confirmed in their fatal delusion by the absolute want of resistance which they met with, when they proceeded after formal notice of their intention given to pull down the fences. They could not be persuaded but that this want of effectual check arose from the connivance or sanction of the Government nor were they undeceived till they gazed on the imposing array of the detachment of the 3rd Dragoons. Of all the recent riots these may be the most silly in there origin but they are certainly the most excusable.
+
+On Thursday night a man named Harris alias Welshman alias Poise foot another
+leveller of notoriety was apprehended by Watkins the constable and two of the forest keepers. When discovered and summoned to surrender he brandished a large knife and swore that he would be the death of any man who might venture to approach him. The constable and keepers immediately rushed upon and disarmed him. While they were conducting him before the Magistrates he contrived without being perceived to draw from his pocket a pistol which he placed close to the ear of the constable and snapped. The pistol fortunately mis-fired, otherwise Watkins must have been a dead man, for on being taken from him it was found loaded up to the muzzle. For this attempt at assassination the ruffian has been committed to take his trial at our next Assizes.
+
+https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_4.pdf Gloucester Journal 2 July 1831
+
+Forest Rioters
+
+GLOUCESTER JOURNAL JULY 2ND 1831
+
+Edward Woore was indicted for a riot in the Hundred of St Briavels on the 8th of June last. This case was opened by an address to the jury from Mr Alexander council
+for the crown. He stated that injury had been done to the amount of several thousand pounds, he willingly believed however that the individuals had been acting under gross delusion in order to obtain what they considered to be their rights, but whether these rights were real or imaginary (and there was not the shadow of doubt on this point) they had taken an illegal and unconstitutional way of obtaining them and had committed a violent outrage over a large district of country for such an offence. A ... brought against them but as his Majesty's Attorney General was of opinion that they had been acting under misguided notions, he had only indicted them for a riot and tumult and there was sufficient proof that a riot had been committed and long persisted in.
+
+Edward Machen Esq. magistrate stated that he was present on the 8th June in the Forest between six and seven o'clock in the morning. About 150 persons were assembled and were afterwards increased to about 180; they were hurraing and waving various implements such as pick axes hoes and mattocks over their heads. They then rushed with a great shout towards Parkhill enclosure. About 80 of them had implements of different kinds which they struck violently aganist the ground in a
+threatening manner and the rest hurraed and encouraged them. Parties on the hills around appeared to be acting in concert with them. This happened about seven o'clock
+in the morning. Had previously advised them to desist but they paid no attention and
+continued to demolish the fences. The bystanders at the time encouraged them by such expressions as "that's right", "well done", "go to it my lads". Had about forty persons with him who were special constables but considered it useless to make any attempt to stop the proceedings and there threatening appearance prevented him from taking any of them into custody. He remained there for about three quarters of an hour then went home and retruned in about an hour. The distrubance still continued and the number of persons was very much increased.
+
+James James said he takes care of the woods; saw Mr Machen at Parkhill about seven
+o'clock on the 8th June and perceived a crowd there who were shouting and making a great noise; they had pick axes &c. with them. Saw the prisoner among them after they began to take down the fences and he was very actively employed in doing so. There were at this time from 80 to 100 persons assembled. The prisoner had some instrument in his hand but I cannot say what it was. The fence consisted of turf ferns &c.
+
+John Preece said he was at Parkhill on the morning in question and saw a crowd colected to the number of perhaps 150 who were busily employed in pulling down the
+fences. The prisoner was amongst them and had a tool in his hands and he was equally active as the rest in pulling the fences down.
+
+The prisoner on being asked what he had to say, admitted that he was present, and assisted in pulling the fences down.
+
+The Rev Dr Cooke in his address to the jury went over the evidence very minutely commenting upon it as he proceeded. He stated that the guilt or innocence
+of the prisoner did not depend on the right, real or imaginary which the Foresters
+supposed that they had to the pasturage of these enclosures, but on the manner in which they had sought for redress:- and this had been done both illegally and riotously and therefore they had rendered themselves amenable to the laws; and it was now for them to say whether the prisoner at the bar charged with this riotous conduct was guilty or not guilty. The jury returned a vedrcit of guilty.
+
+James Baldwin was indicted for a similar ofence under the circumstances
+detailed in the following evidence:
+
+The Rev. Chas. Crawely stated, that he saw the prisoner on the 8th of June, amidst a crowd of 40 actively employed in putting down the embankments and enclosures in a very riotous manner. Told them of their improper conduct, and James Baldwin the prisoner, in particular. The prisoner's reply was, "That Gentleman knows me" and pointed at him. The prisoner was the most active he saw. The act of parliment, which relates to the forest had been gvien to them, but the disturbance continued. Saw the prisoner afterwards and he was always busy and seemed a leading man. Had Constables with him but not in sufficient force to repress the rioters, who were proceeding tumultuous and threatening manner to pull down the fences. Thomas Court said he was at Ruardean on the 9th of June and saw the prisoner and several
+others with him. They began to pull down the enclosures. The prisoner was the first who got over the wall and the others followed his example, and began to push down
+the wall. They set their shoulders aganist it, and pushed a part of it down, sometimes as mauch as six yards at a time. Saw the prisoner afterwards at Ruardean enclosure on the same day. After destroying the wall the mob went off. The prisoner seemed very active and appeared the leading man. Went about four hours
+afterwards to Ruardean Hill and prisoner was there with about 40 others. The prisoner had a pick axe or a mattock in his hands with which he was beating down the fences. Some of the fence wsa bank and some of it wall. Saw prisoner pulling down the wall with his hands. Another woodman was along with him and two at Ruardean Hill. It would not have been safe to have taken any of the mob into custody.
+
+Cross examined,- Birchwood had been enclosed ever since he remembered: Had known it pehaps for thirty years and Ruardean lHli had been enclosed for about eighteen years.
+
+John Jones said he was at Birchwood on the 9th of June and saw the Prisoner there. There were several other persons with him. Prisoner had some tool in his hand.
+He got over the wall first. Witness otdl him to lay the tool down and desist but he continued to pull down the wall. The mob were asked repeatedly to desist but they did not mind. Heard some shouting at some distance. They kept saying it was well done, and as each piece of wall fell they encouraged and praised each other. The prisoner seemed to be the prinsipal man. John Hatton said, he was a woodman of the Forest of Deam. Was at the Lea Bailey Hill on the 10th of June and saw the prisoner there with fifteen or twenty with him. Prisoner took the gate off the hinges. He had a pit mattock on his shoulder, and said by the side of the enclosure that he had been booked three days regular, and witness might book him again: All the company then gave a huzza so loud that they may have been heard a mile off. It would not have been safe to have taken any of them into custody because some of them were drunk and their conduct was such that it would have been dangerous.
+
+Richard Jones said he saw a labourer. Saw James Baldwin the prisoner, at Hatton's enclosure on the 13th of June. Three lads came and desired him to get down. Prisoner told him if he had not omce down they would have plained his ground. The wall of his ground was a fence to the enclosure. Prisoner and another person gave directions to the rest. The crowd worked at pulling down the fences in the same way as they would have worked at anything else.
+
+Cornelius Meek said he was at the lime kiln on the 10th of June. Three lads came to him and said if he did not come and assist in taking down the fence they would come and pull down the front wall of his lime kiln. Went down in consequence of the threat and the lads went along with him. There were between twenty and thiry of the mob. James baldwin, the prsoner, was there and James Knight. The prisoner gave an  oath and said, "You have no stomach in your part of the country: I suppose you would have done nothing if we had not come up". The prisoner then said, "Hatton, you have been our master a long while, but we will tell you know that we are yours now." As they pulled down each piece they shouted as it fell. Would not have gone had it not been for the threat of pulling down the lime kiln.
+
+Mr. Watson addressed the jury at great length in behalf of the prisoner, and endeavoured to prove that as there had been no personal violence used to any individual no riot or tumult had been committed; it was evident a trespass had been committed in pulling down the wall and he would admit that the prsioner with others
+had been guilty of this crime. But this was not the charge preferred against him in the indictment: He was there charged with having commtted a riot and tumult. To
+constitute a riot and tumult it was necessary that fear ...
+
+https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_5.pdf Gloucester Journal 20 August 1831 
+
+GLOUCESTER JOURNAL 20TH AUGUST 1831
+GLOUCESTER ASSSIZES
+
+CROWN SIDE - Before Mr Justice Patteson
+
+Warren James aged 35 was indicted capitally for having with ...... other pesorns to the number of 12 and more on the 8th of June last at the hundred of St Briavels riotously and tumultously assembled together to the disturbance of the public peace, and riotously andd feloniously remained together for the space
+of one hour after proclamation had been made for all persons to depart.
+
+Mr J... Mr Campbell Mr Alexander and Mr Talbot. con. declared the case on the part
+of the prosecution which was instituted by the direction of his Majesty's Govemment.
+
+E Machen Esq. a magistrate of the county and Surveyor General of the Forest of Dean was the first witness. He spoke to the fact of his having on Saturday the 4th June seen a printed notice signed by the prisoner announcing a meeting of the free miners of the Forest of Dean on Wednesday the 8th of that month for the purpose of opening the forest and asserting their right of common of which they had, as they said been so long deprived. In consequence of this announcement, witness issued a cautionary notice stating that the enclosure of the forest had taken place under the authority of the Act of the 48 Geo. III .c.72. the provisions of which were the same as those of the 20 Charles II. c. 3. by which it was enacted that 11,000 acres of the forest should be always set apart as a nursery for timber and that the Lords of the Treasury might, when the saw that the timber was out of danger, and properly preserved against cattle, throw them open to the public.
+
+On Sunday the 5th June, witness who had previous interviews with the prisoner, had some conversation with him on the subject of the intended meeting on the 8th, Witnes asked him how he could think of misleading the people in the way he  was doing and told him he would bring himself and them into trouble. His answer was "O', we're all right, the forest was given to us in Parliament last year." Witness said to the persons who were assembled around. "This is absurd: if you allow yourselves to be drawn on by a man who can say nothing more to the purpose than this it will be your own fault." The prisoner said "O', I have the Act of Parliament." Witness asked him why he did not bring it down and show it to him. He said he would. On Wednesday the 8th, witness went to the prisoner's house between six and seven o'clock in the morning. The prisoner was not at home, but witness sent for him, and he came in about five minutes accompanied by 12 or 14 persons. Witness remonstrated with him upon his proceedings and said "You tell one person that you have an Act of Parliament and another that you have a Charter:-if you have any document why don't you produce it?" He said "I have a Charter." Witness said. "Where is it?" He replied "In that house," pointing to his own house "and I will get it." He went into the house and in a minute or two returned, with a pick axe on his shoulder. He turned away from witness, and went followed by the persons who are assembled towards Park-hill enclosure. Witness and Mr Henry Davies, another Magistrate, went in that direction. The prisoner and his party took up their station about 100 yards from Park-hill enclosure on rising ground. He went to the enclosure gate, where the special constables were stationed and was joined by small parties in different directions. They continued to arrive until the number amounted to between 100 and 200. About 80 of mehthad spades and pick axes. They flourished them about their heads and struck them violently into the ground. Mr Davies went and talked to them and some of them withdrew. They at last made a rush in a. . . . . towards the enclosure. Witnes said "I forbid you touching the bank of the enclosure." When they came within about ten yards of the enclosure the prisoner made a rush with his pickaxe and stuck into it. Some one then said, "There's a first blow" and then all the party began to pull down the fences. Witness commanded them in the Kings name to disperse. There were about 130 working at the fences with otosl and 100 standing by. Some were working without tools. They persisted in their work of demolition and witness then took the last volume of Burn and read the Riot Act. They still persisted and in about 20 minutes the Riot Act was read again by another Magistrate. Witness continued with them till about a quarter past eight. They were still engaged in their work of destruction and the prisoner remained with them. Witness returned between nine and ten when there numbers had increased to 300 or 400. They were still pulling down the fences; a great deal of damage had been done in the interval of witness's absence; about a mile of fences had ben pulled down. The special constables were unarmed. Witness did not think it safe to attempt to apprehend the rioters.
+
+Cross examined: Witness had recevied an intimation from the prisoner some days before, of the intention to pull down the fences. The prisoner had hitherto been a
+peaceable well conducted man.
+
+Mr C. Philips for the prisoner, here objected, that the acts charged against the prisoner were not stated in the indictment to have been done in *terroisum populi*.
+
+Mr Justice Patteson thought there was a distinction between an indictment for a riot and a indicmtent like the present for not dispersing after proclamation made.
+
+Thomas A. Stinson a printer, proved that he by the direction of the prisoner printed 50 copies of the notice announcing the meeting on the 8th June.
+
+Thomas Huton a draper at Coleford stated that he saw the prisoner on Friday the 3rd June in Mr Stinson's office and had some conversation with him in the subject of the printed notice. Witness advised him not to issue the notice but go to Mr Machen. He said he had written to the gentleman informing him of what he was going to do and that he had received no answer from him. Witness told him that Mr Machen had been from home.
+
+John Langham assistant surveyor of the Forest of Dean stated that on Sunday the 5th of June last Mr Machen sent for the prisoner and asked him why he wished to disturb the minds of the foresters, and he replied that it was for their rights. Mr. Machen told him not to mislead the innocent and that if he wished to be informed as to the law relative to the enclosure, to come to him and bring anyone he chose with him and he (Mr Machen) would read to him the Acts of Parliament. The prisoner said he was determined to go on. Mr Machen then went away. Witness remained and asked the prisoner when and where he meant to begin. He said he should begin on Wednesday morning at Whitecroft just below Park hill enclosure. Mr Machen and witness made arrangements to take a number of woodmen who were sworn in as special constables. Witness went to the spot about six o'clock on the Wednesday morning and met the woodmen there. He remained about half an hour during which time several parties consisting of ten or twelve congregated about the Park hil enclosure. There was great shouting and cheering as each praiseworthy advanced. The witness went on to describe the conduct of the mob previous to the Riot Act being read, and said that they paid no attention to the proclamation but continued pulling down the bank of the enclosure and shouting as the pieces fell down. Witness followed them and on faling in with the prisoner, told him he was afraid it would end badly with him, to which he replied that he did not fear that as he had got the law in his own hands and advised witness not to meddle with him and his party as they were too many for him. One of the men who was engaged with others in demolishing the banks said to witness "It is through such b———y rogues as you that we have no more to eat and I should like to cut you b———y head off." The witness went on with some further details as to the conduct of the mob who he said had demolished about six miles of the enclosure during the time that he observed them.
+
+H. Davies Esq., banker of Monmouth, corroborated part of the evidence of the preceding witness. He stated that he went up to the mob and asked them what they wanted. One of them stepped forward and handed witness a piece of paper on which was written "King William and reform: our rights and nothing but our rights." He said that was what they wanted. Witness said he had heard from others that the chief ground of their complaint was that foreigners came to the forest without coats and in a short time were seen riding about in their gigs; witness remonstrated
+with them and asked them why that should induce them to attack the enclosures, telling them that his brother did not employ foreigners. One of the men said in reply that they would pull up the rail-roads and drive all the foreigners out of the forest. The witness went on to detail some other circumstances relative to the conduct of the prisoner and his party in corroboration of the other witnesses. He was cross examined by Mr Phillips but no other material was elicited.
+
+Other witnesses confirmed the preceding testimony and described the character of the mob and the part which the prisoner took with them. It appeared that they continued pulling down the fences till a late hour in the evening.
+
+At the conclusion of the case for the prosecution,
+
+Mr. C. Philips submitted that there was no evidence to show that the prisoner had
+remained with the mob for one hour continuously after the reading of the Riot Act.
+
+Mr Justice Pateson said that though it might be true that no eye saw the prisoner for an hour continuously after the proclamation had been made still it would be a question for the jury whether in point of fact he did not remain with them during that time.
+
+The prisoner in his defence said he went away during the hour.
+
+The learned Judge then summed up the evidence and told the jury that even if the prisoner did go away for a short time during the hour he would not be protected from
+the penalties of the statute under which he was indicted if it should appear that he continued afterwards to act with the mob.
+
+The jury after a short consultation found the prisoner Guilty but recommended him to mercy on account of his former good character.
+
+Mr Justice Patteson addressed him upon the serious nature of his offence but said he should make as favourable a representation of his case to his Majestey as he could.
+
+Judgement of death was then recorded.
+ 
+
+TO DO below
 
 https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Warren_James_Pardon_transcript.pdf
 
@@ -739,7 +1092,7 @@ That the Foresters will retrieve their characters as peaceable subjects, no doub
 
 It is not generally known how much praise is due to Edward Machen, Esq., for his efforts and influence in the mitigation of the offenders' sentences. Be regarded those poor men as friends and neighbours and to him it is owing, that some now suffering imprisonment are not banished for ever from all a Forester holds dear—his wife, his children, and his native woods.
 
----
+--
 
 
 
