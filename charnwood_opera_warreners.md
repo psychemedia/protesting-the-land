@@ -8,6 +8,10 @@ MERL - Museum of English Rural Life
 Manuscript: D MS 1093/12/19,
 "When I looked up the file number in the catalogue, the description offered was simply ‘documents related to enclosure’ ...Measuring approximately 39×31 cm, this manuscript is the only known surviving copy of ‘The Charnwood Opera’. It is dated 1752 and was written by an unknown author. ... The manuscript is one of hundreds of documents that form part of the William Tate (1902-1968) archive."
 
+
+Roy Palmer collection https://www.rmg.co.uk/collections/archive/rmgc-object-1074155
+
+
 https://merl.reading.ac.uk/collections/tate-william-edward/ Tate, William Edward (enclosure historian)
 
 
