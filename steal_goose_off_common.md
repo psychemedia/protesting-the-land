@@ -241,7 +241,7 @@ Peccati gravis est, vir, mulierque reus,
 Ansere fraudato rapuit qui publica rura,  
 Delicto fuerit vel graviore nocens. K.
 
-JOHN PICKFOBD, M.A. Newbourne Rectory, Woodbridge.
+JOHN PICKFORD, M.A. Newbourne Rectory, Woodbridge.
 
 The following epigram, though fairly well known, haa, I think, not been quoted in your pages:—
 
