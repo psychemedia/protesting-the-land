@@ -111,11 +111,11 @@ p556
 Lines written on seeing the following *Jeu d'Esprit* at the bottom of a handbill, posted up in Plaistow, as a CAUTION to persons not to support the intended Bill for the Inclosure of Epping Forest; viz.
 
 > 'The fault is great, in Man or Woman,  
-> 'Who steals a Goofe from off a Common;  
+> 'Who steals a Goose from off a Common;  
 > 'But, who can plead that Man's excuse,  
 > 'Who steals the Common from the GOOSE!!!'
 
-Does he, who seems to plead a Gooose's cause,  
+Does he, who seems to plead a Goose's cause,  
 Not *read*, or not *believe*, his Maker's laws;'  
 Who says, Set not thy heart on worldly pelf,'  
 But, Love thy neighbour as thou lov'st thyself?'  
@@ -128,7 +128,7 @@ TH ?? https://discovery.nationalarchives.gov.uk/details/r/C3838022 Proposed encl
 
 https://babel.hathitrust.org/cgi/pt?id=nyp.33433081662979&seq=407&q1=goose
 
-Tickler, or, Monthly compendium of good things, in prose and verse : blending, (with many original articles of interest and amusement,) a compilation from the most esteemed authors of former times : with a selection from the most approved works of present day; and forming an elegant repository for the flowers of ancient and modern literature... v.1-3 (Dec.1818-Dec. 1821)
+Tickler, or, Monthly compendium of good things, in prose and verse: blending, (with many original articles of interest and amusement,) a compilation from the most esteemed authors of former times : with a selection from the most approved works of present day; and forming an elegant repository for the flowers of ancient and modern literature... v.1-3 (Dec.1818-Dec. 1821)
 
 p45
 
@@ -252,7 +252,7 @@ Who steals a common from a goose.
 
 My version is taken from Carey's 'Commonplace Book of Epigrams' 1872. Is the local tradition true that this was directed against Charles Pratt, first Earl Camden, who, by an arrangement with the parishioners of Chislehurat, took from the common a strip of land in front of Camden House, which still remains incorporated in the grounds of that mansion? In the 'Report of the Charities Committee of the Parish Council of Chislehurst' I find the following:—
 
-"Camden Estate. — Further land northward of Camden House waa enclosed in 1760 at the yearly rent of 2/., and another piece of land in front of Camden House was granted by an order of the Vestry, dated the 7th October, 1764, to Lord Chief Justice Pratt on his paying to the Churchwardens for the use of the poor the yearly rental of 1*l.* 1*s.*"
+"Camden Estate. — Further land northward of Camden House waa enclosed in 1760 at the yearly rent of 2*l.*, and another piece of land in front of Camden House was granted by an order of the Vestry, dated the 7th October, 1764, to Lord Chief Justice Pratt on his paying to the Churchwardens for the use of the poor the yearly rental of 1*l.* 1*s.*"
 
 PHILIP NORMAN. [See 7th S. vii. 498.]
 
@@ -315,25 +315,19 @@ Publication date 1829
 
 Starts p 1219
 
-"That, in the opinion of this House, this Bill does not give adequate protection to the interests of the rural labourers, and does not provide proper securities against the inclosure oi those Commons which it is desirable to preserve in their uninclosed condition for the use and enjoyment of the people."
+"That, in the opinion of this House, this Bill does not give adequate protection to the interests of the rural labourers, and does not provide proper securities against the inclosure of those Commons which it is desirable to preserve in their uninclosed condition for the use and enjoyment of the people."
 
 pp. 1239-41
 
 Commons Bill Committee, May 25, 1876
 
-... A clause had been introduced into the Inclosures Act Amendment of 1852 which permitted 50 acres of any common to be sold with the consent of the lord and two-thirds of the commoners. If 50 acres, why not the whole common ? Some commons were
-
-not 50 acres in extent. Why should not Parliament do its utmost to facilitate the acquisition by purchase of suburban open spaces, by urban authorities, under the superintendence of the Inclosure Commissioners? That was not, however, the view the hon. Member for Eeading took of the matter. He was for stepping over the timid counsels of the National Assembly, and boldly proclaiming, with the Convention of 1794, that the oldest and longest established rights of property in these islands, titles which were at least as old as the AngloSaxon race, were to g^ve way, without compensation, to claims which he himself allowed were opposed to all common and statute law — claims which he had himself, in great part, invented, were to supersede titles to the ownership of land which had existed for centuries before the tenure in fee-simple by which we now held land was ever thought of. Nothing short of that would satisfy the hon. Member for Eeading, and the party who was acting with him. The ownership of a common was nearly allied to corporation property; though the titles were far more ancient. It belonged in certain undivided shares to certain individuals. If their rights were invaded by Parliament in favour of what the hon. Member for Eeading called the public, he (Mr. Knight) would ask what corporate property would be safe for a twelve month after such a precedent, if the public wanted it ?
+... A clause had been introduced into the Inclosures Act Amendment of 1852 which permitted 50 acres of any common to be sold with the consent of the lord and two-thirds of the commoners. If 50 acres, why not the whole common? Some commons were not 50 acres in extent. Why should not Parliament do its utmost to facilitate the acquisition by purchase of suburban open spaces, by urban authorities, under the superintendence of the Inclosure Commissioners? That was not, however, the view the hon. Member for Reading took of the matter. He was for stepping over the timid counsels of the National Assembly, and boldly proclaiming, with the Convention of 1794, that the oldest and longest established rights of property in these islands, titles which were at least as old as the AngloSaxon race, were to give way, without compensation, to claims which he himself allowed were opposed to all common and statute law — claims which he had himself, in great part, invented, were to supersede titles to the ownership of land which had existed for centuries before the tenure in fee-simple by which we now held land was ever thought of. Nothing short of that would satisfy the hon. Member for Reading, and the party who was acting with him. The ownership of a common was nearly allied to corporation property; though the titles were far more ancient. It belonged in certain undivided shares to certain individuals. If their rights were invaded by Parliament in favour of what the hon. Member for Reading called the public, he (Mr. Knight) would ask what corporate property would be safe for a twelve month after such a precedent, if the public wanted it?
 
 Ue would now read to the House a very curious letter received since the last debate from a neighbour of his, a capital sportsman. He said —
 
-"Dear Mr. Knight, — Having seen in the newspapers that there is a Commons Inclosure Bill before the House of Commons, I wish to bring before your notice a case which happened on my father's common several years ago — viz., that a tourist then staying at Lynton was roaming about our common, and, after sitting down to his lunch, he sot fire to the most valuable part of the common for black game and thu wild red deer. We found out where he was staying at Lynton, and he gave his name as a Mr. Shaw Lef evre, a son of the Speaker of the House of Commons, or his nephew,"
+"Dear Mr. Knight, — Having seen in the newspapers that there is a Commons Inclosure Bill before the House of Commons, I wish to bring before your notice a case which happened on my father's common several years ago — viz., that a tourist then staying at Lynton was roaming about our common, and, after sitting down to his lunch, he set fire to the most valuable part of the common for black game and the wild red deer. We found out where he was staying at Lynton, and he gave his name as a Mr. Shaw Lefevre, a son of the Speaker of the House of Commons, or his nephew," the writer forgot which. His correspondent added that he had to ride about collecting men to beat out the fire, but they did not succeed in extinguishing it before the burning of about 130 acres. [Mr. Shaw Lefevre: What year?] The letter did not say. Great part of this common was now devoted to the service of the public. It was devoted to the maintenance of the wild red deer. Persons were kept off the common during eight months of the year, and during the other four months the public were free to gallop oyer it. He (Mr. Knight) did not say that municipalities should be prevented from obtaining commons near sreat towns, but there should be faclities for inclosing in other places. A Committee of the House of Commons could distinguish perfectly the places were commons should be inclosed and where they should not. He believed that this Bill, if it conferred more assistance upon towns to acquire this kimd of property, would be a very good Bill indeed.
 
-the writer forgot which. His correspondent added that he had to ride about collecting men to beat out the fire, but they did not succeed in extinguishing it before the burning of about 130 acres. [Mr. Shaw Lefevrk : What year?] The letter did not say. Great part of this common was now devoted to the service of the public. It was devoted to the
-
-maintenance of the wild red deer. Persons were kept off the common during eight months of the year, and during the other four months the publio were free to gallop oyer it. He (Mr. Knight) did not say that municipalities should be prevented from obtaining commons near sreat towns, but there should be facflities for indosingin other places. A Committee of the House of Commons could distinguish perfectly the places were commons should be inclosed and where they should not. He believed that this BiU, if it conferred more assistance upon towns to acquire this kimd of property, would be a very good Bill indeed.
-
-Mb. SHAW LEFEVBE assured the House that he would not detain it at very great length; in the first place, because his hon. Friend the Member for Hackney (Mr. Fawcett) had covered the whole ground, and, in the second place, because he addressed the House at some length on the second reading of the Bill. He was quite prepared to bear most ample testimony to the good intentions of the Home Secretary. Nothing could be more satisfactory than the statements made by the right hon. Qentieman on various occasions. He had declared that the main object of the Bill was to put a stop to inclosures, and to regulate rather than inclose commons; and he had quoted the well-known lines, which, he believed, were taken from *Hudibras* though he (Mr. Shaw Lefevre) had never been able to find them —
+Mr. SHAW LEFEVRE assured the House that he would not detain it at very great length; in the first place, because his hon. Friend the Member for Hackney (Mr. Fawcett) had covered the whole ground, and, in the second place, because he addressed the House at some length on the second reading of the Bill. He was quite prepared to hear most ample testimony to the good intentions of the Home Secretary. Nothing could be more satisfactory than the statements made by the right hon. Gentleman on various occasions. He had declared that the main object of the Bill was to put a stop to inclosures, and to regulate rather than inclose commons; and he had quoted the well-known lines, which, he believed, were taken from *Hudibras* though he (Mr. Shaw Lefevre) had never been able to find them —
 
 "The law condemns both man and woman  
 Who steals the goose from off the common,  
@@ -346,4 +340,4 @@ Mr. ASSHETON CROSS: The last two lines should run —
 Who steals the common from the goose."
 
 
-[TH: *Hudibras* — a satirial poem by Samuel Butler ]
+[TH: *Hudibras* — a satirical poem by Samuel Butler ]
