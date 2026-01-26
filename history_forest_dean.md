@@ -4,6 +4,13 @@
 TO DO history of forest from English Commons book?
 
 
+https://archive.org/details/forestdeananhis00nichgoog/page/n252/mode/2up?q=%22wilton+bridge%22
+The Forest of Dean: An Historical and Descriptive Account
+by Henry George Nicholls
+
+Publication date 1858
+
+
 https://en.wikipedia.org/wiki/Laws_of_the_Forest_of_Dean_and_Hundred_of_Saint_Briavels
 
 
