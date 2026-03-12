@@ -712,7 +712,8 @@ Mr. Watson addressed the jury at great length in behalf of the prisoner, and end
 https://forest-of-dean.net/downloads/Stories_Articles/Riots%20in%20the%20Forest%20of%20Dean%201831/Riots_in_the_Forest_of_Dean_1831_Part_5.pdf Gloucester Journal 20 August 1831 
 
 GLOUCESTER JOURNAL 20TH AUGUST 1831
-GLOUCESTER ASSSIZES
+
+GLOUCESTER ASSIZES
 
 CROWN SIDE - Before Mr Justice Patteson
 
